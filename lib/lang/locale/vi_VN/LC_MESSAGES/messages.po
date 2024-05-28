@@ -1,0 +1,5172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Senayan3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-23 21:00+0700\n"
+"PO-Revision-Date: 2022-07-20 09:25+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_ngettext:1,2\n"
+"X-Poedit-Basepath: ../../../../..\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sysconfig.inc.php:504
+msgid "Personal Name"
+msgstr "Thông tin cá nhân"
+
+#: sysconfig.inc.php:505
+msgid "Organizational Body"
+msgstr "Đơn vị tổ chức"
+
+#: sysconfig.inc.php:506
+msgid "Conference"
+msgstr "Cuộc họp"
+
+#: sysconfig.inc.php:509
+msgid "Topic"
+msgstr "Chủ đề"
+
+#: sysconfig.inc.php:510
+msgid "Geographic"
+msgstr "Địa lý học"
+
+#: sysconfig.inc.php:511
+msgid "Name"
+msgstr "Tên"
+
+#: sysconfig.inc.php:512
+msgid "Temporal"
+msgstr "Thời gian"
+
+#: sysconfig.inc.php:513
+msgid "Genre"
+msgstr "Thể loại"
+
+#: sysconfig.inc.php:514
+msgid "Occupation"
+msgstr "Nghề nghiệp"
+
+#: sysconfig.inc.php:517
+msgid "Primary Author"
+msgstr "Tác giả chính"
+
+#: sysconfig.inc.php:518
+msgid "Additional Author"
+msgstr "Tác giả phụ"
+
+#: sysconfig.inc.php:519
+msgid "Editor"
+msgstr "Biên tập viên"
+
+#: sysconfig.inc.php:520
+msgid "Translator"
+msgstr "Dịch giả"
+
+#: sysconfig.inc.php:521
+msgid "Director"
+msgstr "Tổng biên tập"
+
+#: sysconfig.inc.php:522
+msgid "Producer"
+msgstr "Nhà xuất bản"
+
+#: sysconfig.inc.php:523
+msgid "Composer"
+msgstr "Nhà soạn nhạc"
+
+#: sysconfig.inc.php:524
+msgid "Illustrator"
+msgstr "Nhà thiết kế"
+
+#: sysconfig.inc.php:525
+msgid "Creator"
+msgstr "Người sáng tạo"
+
+#: sysconfig.inc.php:526
+msgid "Contributor"
+msgstr "Người đóng góp"
+
+#: index.php:43
+msgid "Web Online Public Access Catalog - Use the search options to find documents quickly"
+msgstr "Mục lục trực tuyến - Sử dụng chức năng tìm kiếm để tìm nhanh tài liệu"
+
+#: index.php:64
+msgid "You are currently logged in as"
+msgstr "Bạn hiện đang đăng nhập với tư cách"
+
+#: index.php:52
+msgid "You are currently Logged on as member"
+msgstr "Bạn hiện đang đăng nhập với tư cách"
+
+#: index.php:52
+msgid "LOGOUT"
+msgstr "Đăng xuất"
+
+#: template/lightweight/index_template.inc.php:20
+msgid "Home"
+msgstr "Trang chủ"
+
+#: template/lightweight/index_template.inc.php:21
+msgid "Library Information"
+msgstr "Thông tin liên hệ"
+
+#: template/lightweight/index_template.inc.php:22
+msgid "Help on Search"
+msgstr "Hướng dẫn tìm kiếm"
+
+#: template/lightweight/index_template.inc.php:39
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: template/lightweight/custom_frontpage_record.inc.php:7
+#: template/lightweight/detail_template.php:12
+msgid "Edition"
+msgstr "Lần xuất bản"
+
+#: template/lightweight/custom_frontpage_record.inc.php:8
+#: template/lightweight/detail_template.php:20
+msgid "ISBN/ISSN"
+msgstr "ISBN/ISSN"
+
+#: template/lightweight/custom_frontpage_record.inc.php:9
+#: template/lightweight/detail_template.php:60
+msgid "Collation"
+msgstr "Mô tả vật lý"
+
+#: template/lightweight/custom_frontpage_record.inc.php:10
+#: template/lightweight/detail_template.php:37
+msgid "Series Title"
+msgstr "Tên riêng của tập"
+
+#: template/lightweight/custom_frontpage_record.inc.php:11
+#: template/lightweight/detail_template.php:16
+msgid "Call Number"
+msgstr "Ký hiệu"
+
+#: template/lightweight/detail_template.php:8
+msgid "Title"
+msgstr "Nhan đề"
+
+#: template/lightweight/detail_template.php:25
+msgid "Author(s)"
+msgstr "Tác giả"
+
+#: template/lightweight/detail_template.php:29
+msgid "Subject(s)"
+msgstr "Chủ đề"
+
+#: template/lightweight/detail_template.php:33
+msgid "Classification"
+msgstr "Số phân loại"
+
+#: template/lightweight/detail_template.php:40
+msgid "GMD"
+msgstr "Vật liệu"
+
+#: template/lightweight/detail_template.php:44
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: template/lightweight/detail_template.php:48
+msgid "Publisher"
+msgstr "Nhà xuất bản"
+
+#: template/lightweight/detail_template.php:52
+msgid "Publishing Year"
+msgstr "Năm xuất bản"
+
+#: template/lightweight/detail_template.php:56
+msgid "Publishing Place"
+msgstr "Nơi xuất bản"
+
+#: template/lightweight/detail_template.php:64
+msgid "Abstract/Notes"
+msgstr "Tóm tắt / Ghi chú"
+
+#: template/lightweight/detail_template.php:68
+msgid "Specific Detail Info"
+msgstr "Ghi chú"
+
+#: template/lightweight/detail_template.php:72
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: template/lightweight/detail_template.php:76
+msgid "File Attachment"
+msgstr "Tệp tin đính kèm"
+
+#: template/lightweight/detail_template.php:80
+msgid "Availability"
+msgstr "Dữ liệu xếp giá"
+
+#: template/default/index_template.inc.php:54
+msgid "Member Area"
+msgstr "Tài khoản"
+
+#: template/default/index_template.inc.php:55
+msgid "Librarian LOGIN"
+msgstr "Thủ thư đăng nhập"
+
+#: template/default/index_template.inc.php:98
+msgid "Select Language"
+msgstr "Lựa chọn ngôn ngữ"
+
+#: template/default/index_template.inc.php:110
+msgid "Advanced Search"
+msgstr "Tìm kiếm nâng cao"
+
+#: template/default/index_template.inc.php:126
+msgid "Collection Type"
+msgstr "Bộ sưu tập"
+
+#: template/default/index_template.inc.php:130
+msgid "Location"
+msgstr "Kho lưu trữ"
+
+#: template/default/detail_template.php:85
+msgid "Custom Field 1"
+msgstr "Trường tùy chỉnh 1"
+
+#: template/default/detail_template.php:89
+msgid "Custom Field 2"
+msgstr "Trường tùy chỉnh 2"
+
+#: template/default/detail_template.php:95
+msgid "Back To Previous"
+msgstr "Quay trở lại"
+
+#: admin/logout.php:36
+msgid "You Have Been Logged Out From Library Automation System"
+msgstr "Bạn đã đăng xuất khỏi hệ thống"
+
+#: admin/index.php:66
+msgid "Welcome To The Library Automation System, you are currently logged in as"
+msgstr "Chào mừng bạn đến với hệ thống thư viện, bạn đang đăng nhập với tên"
+
+#: admin/default/home.php:35
+msgid "<strong>PHP GD</strong> extension is not installed. Please install it or application won't be able to create image thumbnail and barcode."
+msgstr "Ứng dụng PHP GD chưa được cài đặt, vui lòng cài đặt để sử dụng tính năng tạo hình ảnh thu nhỏ và mã barcode."
+
+#: admin/default/home.php:39
+msgid "<strong>Freetype</strong> support is not enabled in PHP GD extension. Rebuild PHP GD extension with Freetype support or application won't be able to create barcode."
+msgstr ""
+
+#: admin/default/home.php:46
+msgid "There is currently <strong>{num_overdue}</strong> library members having overdue. Please check at <b>Circulation</b> module at <b>Overdues</b> section for more detail"
+msgstr "Hiện có <strong>{num_overdue}</strong> Bạn đọc mượn tài liệu quá hạn. Vui lòng kiểm tra phân hệ<b> Lưu thông chức năng danh sách quá hạn để xem chi tiết"
+
+#: admin/default/home.php:51
+msgid "<strong>Images</strong> directory and directories under it is not writable. Make sure it is writable by changing its permission or you won't be able to upload any images and create barcodes"
+msgstr ""
+
+#: admin/default/home.php:55
+msgid "<strong>Repository</strong> directory is not writable. Make sure it is writable (and all directories under it) by changing its permission or you won't be able to upload any bibliographic attachments."
+msgstr ""
+
+#: admin/default/home.php:59
+msgid "<strong>File upload</strong> directory is not writable. Make sure it is writable (and all directories under it) by changing its permission or you won't be able to upload any file, create report files and create database backups."
+msgstr ""
+
+#: admin/default/home.php:63
+msgid "The PATH for <strong>mysqldump</strong> program is not right! Please check configuration file or you won't be able to do any database backups."
+msgstr ""
+
+#: admin/default/session_check.inc.php:32
+#: admin/default/session_check.inc.php:45
+msgid "You are not authorized to view this section"
+msgstr "Bạn không có quyền truy cập"
+
+#: admin/default/session_check.inc.php:57
+msgid "Your Login Session has already timeout!"
+msgstr "Phiên đăng nhập của bạn đã hết thời gian!"
+
+#: admin/default/submenu.php:21
+msgid "Panel"
+msgstr "Bảng điều khiển"
+
+#: admin/default/submenu.php:22
+msgid "Change User Profiles"
+msgstr "Tài khoản"
+
+#: admin/default/submenu.php:22
+msgid "Change Current User Profiles and Password"
+msgstr "Thay đổi thông tin cá nhân và mật khẩu đăng nhập"
+
+#: admin/default/submenu.php:24
+msgid "Add New Bibliography"
+msgstr "Biên mục tài liệu mới"
+
+#: admin/default/submenu.php:24
+msgid "Add New Bibliographic Data/Catalog"
+msgstr "Thêm Dữ liệu Thư mục Mới / Danh mục"
+
+#: admin/default/submenu.php:27
+msgid "Start Transaction"
+msgstr "Ghi mượn"
+
+#: admin/default/submenu.php:27
+msgid "Start Circulation Transaction Proccess"
+msgstr ""
+
+#: admin/default/submenu.php:30
+msgid "Quick Return"
+msgstr "Ghi trả"
+
+#: admin/default/submenu.php:30
+msgid "Quick Return Collection"
+msgstr "Ghi trả bộ sưu tập"
+
+#: admin/default/submenu.php:33 admin/modules/membership/submenu.php:28
+#: admin/modules/membership/index.php:285
+msgid "Add New Member"
+msgstr "Thêm mới"
+
+#: admin/default/submenu.php:33 admin/modules/membership/submenu.php:28
+msgid "Add New Library Member Data"
+msgstr "Thêm dữ liệu bạn đọc mới"
+
+#: admin/modules/membership/submenu.php:26
+#: admin/modules/membership/index.php:285
+msgid "Membership"
+msgstr "Bạn đọc"
+
+#: admin/modules/membership/submenu.php:27
+msgid "View Member List"
+msgstr "Danh sách Bạn đọc"
+
+#: admin/modules/membership/submenu.php:27
+msgid "View Library Member List"
+msgstr "Danh sách Bạn đọc"
+
+#: admin/modules/membership/submenu.php:29
+#: admin/modules/membership/member_type.php:136
+msgid "Member Type"
+msgstr "Nhóm Bạn đọc"
+
+#: admin/modules/membership/submenu.php:29
+msgid "View and modify member type"
+msgstr "Xem và sửa đổi kiểu Bạn đọc"
+
+#: admin/modules/membership/submenu.php:30
+msgid "Tools"
+msgstr "Tiện ích"
+
+#: admin/modules/membership/submenu.php:31
+#: admin/modules/membership/member_card_generator.php:196
+#: admin/modules/membership/member_card_generator.php:204
+msgid "Member Card Printing"
+msgstr "In thẻ"
+
+#: admin/modules/membership/submenu.php:31
+msgid "Print Member Card"
+msgstr "In thẻ"
+
+#: admin/modules/membership/submenu.php:32
+#: admin/modules/membership/import.php:178
+msgid "Import Data"
+msgstr "Nhập dữ liệu"
+
+#: admin/modules/membership/submenu.php:32
+msgid "Import Members Data From CSV File"
+msgstr "Nhập dữ liệu Bạn đọc từ tệp CSV"
+
+#: admin/modules/membership/submenu.php:33
+#: admin/modules/membership/export.php:119
+msgid "Export Data"
+msgstr "Xuất dữ liệu"
+
+#: admin/modules/membership/submenu.php:33
+msgid "Export Members Data To CSV File"
+msgstr "Xuất dữ liệu Bạn đọc định dạng CSV"
+
+#: admin/modules/membership/import.php:46
+#: admin/modules/membership/member_type.php:48
+#: admin/modules/membership/export.php:43
+msgid "You don't have enough privileges to access this area!"
+msgstr "Bạn không có quyền truy cập !"
+
+#: admin/modules/membership/import.php:55
+msgid "Please select the file to import!"
+msgstr "Vui lòng chọn tập tin !"
+
+#: admin/modules/membership/import.php:58
+#: admin/modules/membership/export.php:49
+msgid "Required fields (*)  must be filled correctly!"
+msgstr "Các trường bắt buộc (*) phải nhập !"
+
+#: admin/modules/membership/import.php:76
+msgid "Upload failed! File type not allowed or the size is more than"
+msgstr "Tải lên không thành công ! Tập tin tải lên không thuộc định dạng cho phép"
+
+#: admin/modules/membership/import.php:168
+msgid "records inserted successfully to members database, from record"
+msgstr "nhập dữ liệu thành công"
+
+#: admin/modules/membership/import.php:178
+msgid "Import for members data from CSV file"
+msgstr "Nhập dữ liệu Bạn đọc từ tệp CSV"
+
+#: admin/modules/membership/import.php:186
+msgid "Import Now"
+msgstr "Nhập dữ liệu"
+
+#: admin/modules/membership/import.php:197
+msgid "File To Import"
+msgstr "Chọn tập tin để nhập"
+
+#: admin/modules/membership/import.php:199
+#: admin/modules/membership/export.php:135
+msgid "Field Separator"
+msgstr "Trường phân tách"
+
+#: admin/modules/membership/import.php:201
+#: admin/modules/membership/export.php:137
+msgid "Field Enclosed With"
+msgstr "Trường kèm theo"
+
+#: admin/modules/membership/import.php:203
+#: admin/modules/membership/export.php:143
+msgid "Number of Records To Export (0 for all records)"
+msgstr "Số lượng biểu ghi xuất (0 để xuất tất cả)"
+
+#: admin/modules/membership/import.php:205
+#: admin/modules/membership/export.php:145
+msgid "Start From Record"
+msgstr "Bắt đầu từ biểu ghi"
+
+#: admin/modules/membership/member_card_generator.php:55
+msgid "Print queue cleared!"
+msgstr "Xóa dữ liệu in !"
+
+#: admin/modules/membership/member_card_generator.php:98
+msgid "Selected items NOT ADDED to print queue. Only {max_print} can be printed at once"
+msgstr "Không có dữ liệu để in"
+
+#: admin/modules/membership/member_card_generator.php:103
+msgid "Selected items added to print queue"
+msgstr "Đã thêm vào danh sách In thành công"
+
+#: admin/modules/membership/member_card_generator.php:112
+#: admin/modules/membership/member_card_generator.php:116
+msgid "There is no data to print!"
+msgstr "Bạn chưa chọn dữ liệu để in !"
+
+#: admin/modules/membership/member_card_generator.php:174
+#: admin/modules/membership/member_card_generator.php:231
+#: admin/modules/membership/index.php:350
+#: admin/modules/membership/index.php:473
+#: admin/modules/membership/index.php:479
+msgid "Member ID"
+msgstr "ID Bạn đọc"
+
+#: admin/modules/membership/member_card_generator.php:175
+#: admin/modules/membership/member_card_generator.php:232
+#: admin/modules/membership/index.php:352
+#: admin/modules/membership/index.php:474
+#: admin/modules/membership/index.php:480
+msgid "Member Name"
+msgstr "Tên Bạn đọc"
+
+#: admin/modules/membership/member_card_generator.php:176
+#: admin/modules/membership/member_card_generator.php:233
+#: admin/modules/membership/index.php:377
+#: admin/modules/membership/index.php:475
+#: admin/modules/membership/index.php:481
+#: admin/modules/membership/member_type.php:214
+#: admin/modules/membership/member_type.php:220
+msgid "Membership Type"
+msgstr "Nhóm Bạn đọc"
+
+#: admin/modules/membership/member_card_generator.php:204
+msgid "Print Member Cards for Selected Data"
+msgstr "In thẻ"
+
+#: admin/modules/membership/member_card_generator.php:205
+msgid "Clear Print Queue"
+msgstr "Xóa dữ liệu in"
+
+#: admin/modules/membership/member_card_generator.php:213
+#: admin/modules/membership/index.php:434
+#: admin/modules/membership/index.php:438
+msgid "Maximum"
+msgstr "Tối đa"
+
+#: admin/modules/membership/member_card_generator.php:213
+msgid "records can be printed at once. Currently there is"
+msgstr "hồ sơ có thể được in cùng một lúc. Hiện tại có"
+
+#: admin/modules/membership/member_card_generator.php:217
+msgid "in queue waiting to be printed."
+msgstr "trong hàng chờ đợi để được in."
+
+#: admin/modules/membership/member_card_generator.php:257
+msgid "Add"
+msgstr "Thêm"
+
+#: admin/modules/membership/member_card_generator.php:258
+msgid "Add To Print Queue"
+msgstr "Thêm vào danh sách In"
+
+#: admin/modules/membership/member_card_generator.php:259
+msgid "Add to print queue?"
+msgstr "Thêm vào danh sách in ?"
+
+#: admin/modules/membership/member_card_generator.php:266
+#: admin/modules/membership/index.php:518
+msgid "Found"
+msgstr "Tìm thấy"
+
+#: admin/modules/membership/member_card_generator.php:266
+#: admin/modules/membership/index.php:518
+msgid "from your search with keyword"
+msgstr "từ tìm kiếm của bạn với từ khóa"
+
+#: admin/modules/membership/index.php:64
+msgid "Member ID and Name can't be empty"
+msgstr "ID Bạn đọc và Tên Bạn đọc không được bỏ trống"
+
+#: admin/modules/membership/index.php:67
+msgid "Password confirmation does not match. See if your Caps Lock key is on!"
+msgstr "Xác nhận mật khẩu không khớp. Kiểm tra phím Caps Lock của bạn đã bật chưa (vui lòng tắt nó)"
+
+#: admin/modules/membership/index.php:163
+msgid "Member Data Successfully Updated"
+msgstr "Dữ liệu Bạn đọc đã cập nhật thành công"
+
+#: admin/modules/membership/index.php:169
+#: admin/modules/membership/index.php:193
+msgid "Image Uploaded Successfully"
+msgstr "Upload hình ảnh thành công"
+
+#: admin/modules/membership/index.php:173
+#: admin/modules/membership/index.php:197
+msgid "Image FAILED to upload"
+msgstr "Không thể upload ảnh lên"
+
+#: admin/modules/membership/index.php:179
+#: admin/modules/membership/index.php:203
+msgid "Member Data FAILED to Save/Update. Please Contact System Administrator"
+msgstr "Không thể cập nhật dữ liệu. Vui lòng liên hệ Admin"
+
+#: admin/modules/membership/index.php:187
+msgid "New Member Data Successfully Saved"
+msgstr "Thêm mới thành công"
+
+#: admin/modules/membership/index.php:266
+msgid "Below member data can't be deleted because still have unreturned item(s)"
+msgstr "Không thể xóa dữ liệu Bạn đọc"
+
+#: admin/modules/membership/index.php:271
+#: admin/modules/membership/member_type.php:122
+msgid "All Data Successfully Deleted"
+msgstr "Tất cả dữ liệu đã xóa thành công"
+
+#: admin/modules/membership/index.php:274
+#: admin/modules/membership/member_type.php:125
+msgid "Some or All Data NOT deleted successfully!\\nPlease contact system administrator"
+msgstr "Không thể xóa dữ liệu. Vui lòng liên hệ Admin"
+
+#: admin/modules/membership/index.php:286
+msgid "Member List"
+msgstr "Danh sách Bạn đọc"
+
+#: admin/modules/membership/index.php:287
+msgid "View Expired Member"
+msgstr "Bạn đọc hết hạn"
+
+#: admin/modules/membership/index.php:289
+msgid "Member Search"
+msgstr "Tìm kiếm Bạn đọc"
+
+#: admin/modules/membership/index.php:300
+#: admin/modules/membership/member_type.php:150
+msgid "You don't have enough privileges to view this section"
+msgstr "Bạn không có quyền truy cập"
+
+#: admin/modules/membership/index.php:309
+#: admin/modules/membership/member_type.php:159
+msgid "Save"
+msgstr "Lưu lại"
+
+#: admin/modules/membership/index.php:324
+#: admin/modules/membership/member_type.php:174
+msgid "Update"
+msgstr "Cập nhật"
+
+#: admin/modules/membership/index.php:336
+msgid "Extend"
+msgstr "Gia hạn"
+
+#: admin/modules/membership/index.php:337
+msgid "Extend Membership"
+msgstr "Mở rộng Bạn đọc"
+
+#: admin/modules/membership/index.php:338
+msgid "Membership Already Expired"
+msgstr "Bạn đọc đã hết hạn"
+
+#: admin/modules/membership/index.php:354
+msgid "Birth Date"
+msgstr "Ngày sinh"
+
+#: admin/modules/membership/index.php:356
+msgid "Member Since"
+msgstr "Ngày kích hoạt"
+
+#: admin/modules/membership/index.php:358
+msgid "Register Date"
+msgstr "Ngày đăng ký"
+
+#: admin/modules/membership/index.php:361
+#: admin/modules/membership/index.php:366
+msgid "Expiry Date"
+msgstr "Ngày hết hạn"
+
+#: admin/modules/membership/index.php:363
+msgid "Auto Set"
+msgstr "Cài đặt tự động"
+
+#: admin/modules/membership/index.php:369
+msgid "Institution"
+msgstr "Cơ quan/Tổ chức"
+
+#: admin/modules/membership/index.php:379
+msgid "Male"
+msgstr "Nam"
+
+#: admin/modules/membership/index.php:380
+msgid "Female"
+msgstr "Nữ"
+
+#: admin/modules/membership/index.php:381
+msgid "Gender"
+msgstr "Giới tính"
+
+#: admin/modules/membership/index.php:383
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: admin/modules/membership/index.php:385
+msgid "Postal Code"
+msgstr "Mã bưu điện"
+
+#: admin/modules/membership/index.php:387
+msgid "Mail Address"
+msgstr "Địa chỉ Email"
+
+#: admin/modules/membership/index.php:389
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+#: admin/modules/membership/index.php:391
+msgid "Fax Number"
+msgstr "Số Fax"
+
+#: admin/modules/membership/index.php:393
+msgid "Personal ID Number"
+msgstr "Mã ID cá nhân"
+
+#: admin/modules/membership/index.php:395
+msgid "Notes"
+msgstr "Ghi chú"
+
+#: admin/modules/membership/index.php:429
+msgid "Pending Membership"
+msgstr "Bạn đọc đang chờ"
+
+#: admin/modules/membership/index.php:429
+msgid "Yes"
+msgstr "Có"
+
+#: admin/modules/membership/index.php:435
+#: admin/modules/membership/index.php:439
+msgid "Photo"
+msgstr "Hình ảnh"
+
+#: admin/modules/membership/index.php:442
+#: admin/modules/membership/index.php:476
+#: admin/modules/membership/index.php:482
+msgid "E-mail"
+msgstr "E-mail"
+
+#: admin/modules/membership/index.php:444
+msgid "New Password"
+msgstr "Mật khẩu mới"
+
+#: admin/modules/membership/index.php:446
+msgid "Confirm New Password"
+msgstr "Xác nhận mật khẩu mới"
+
+#: admin/modules/membership/index.php:451
+#: admin/modules/membership/member_type.php:201
+msgid "You are going to edit member data"
+msgstr "Bạn đang chỉnh sửa dữ liệu Bạn đọc"
+
+#: admin/modules/membership/index.php:451
+#: admin/modules/membership/index.php:477
+#: admin/modules/membership/index.php:483
+#: admin/modules/membership/member_type.php:201
+#: admin/modules/membership/member_type.php:218
+#: admin/modules/membership/member_type.php:224
+msgid "Last Updated"
+msgstr "Lần cập nhật cuối cùng"
+
+#: admin/modules/membership/index.php:452
+msgid "Leave Password field blank if you don't want to change the password"
+msgstr "Để trống trường Mật khẩu nếu bạn không muốn thay đổi mật khẩu"
+
+#: admin/modules/membership/index.php:511
+msgid "Expired Member List"
+msgstr "Danh sách Bạn đọc đã hết hạn"
+
+#: admin/modules/membership/index.php:512
+msgid "Extend Selected Member(s)"
+msgstr "Gia hạn Bạn đọc đã chọn(s)"
+
+#: admin/modules/membership/index.php:512
+msgid "Are you sure to EXTEND membership for selected members?"
+msgstr "Bạn có chắc EXTEND là Bạn đọc của các Bạn đọc đã chọn không?"
+
+#: admin/modules/membership/index.php:514
+msgid "members extended!"
+msgstr "gia hạn Bạn đọc !"
+
+#: admin/modules/membership/member_type.php:56
+msgid "Member Type Name can't be empty"
+msgstr "Tên của Bạn đọc không được để trống"
+
+#: admin/modules/membership/member_type.php:82
+msgid "Member Type Successfully Updated"
+msgstr "Loại Bạn đọc đã được cập nhật thành công"
+
+#: admin/modules/membership/member_type.php:87
+#: admin/modules/membership/member_type.php:95
+msgid "Member Type Data FAILED to Save/Update. Please Contact System Administrator"
+msgstr "Không thể cập nhật dữ liệu. Vui lòng liên hệ Admin"
+
+#: admin/modules/membership/member_type.php:93
+msgid "New Member Type Successfully Saved"
+msgstr "Thêm mới thành công"
+
+#: admin/modules/membership/member_type.php:136
+msgid "Add New Member Type"
+msgstr "Tạo nhóm mới"
+
+#: admin/modules/membership/member_type.php:137
+msgid "Member Type List"
+msgstr "Nhóm Bạn đọc"
+
+#: admin/modules/membership/member_type.php:179
+msgid "Member Type Name"
+msgstr "Tên nhóm"
+
+#: admin/modules/membership/member_type.php:181
+#: admin/modules/membership/member_type.php:215
+#: admin/modules/membership/member_type.php:221
+msgid "Loan Limit"
+msgstr "Số lượng tài liệu cho mượn"
+
+#: admin/modules/membership/member_type.php:183
+msgid "Loan Periode (In Days)"
+msgstr "Thời hạn cho mượn (ngày)"
+
+#: admin/modules/membership/member_type.php:185
+msgid "Enable"
+msgstr "Cho phép"
+
+#: admin/modules/membership/member_type.php:186
+msgid "Disable"
+msgstr "Không cho phép"
+
+#: admin/modules/membership/member_type.php:187
+msgid "Reserve"
+msgstr "Đặt chỗ"
+
+#: admin/modules/membership/member_type.php:189
+msgid "Reserve Limit"
+msgstr "Hạn đặt chỗ"
+
+#: admin/modules/membership/member_type.php:191
+#: admin/modules/membership/member_type.php:216
+#: admin/modules/membership/member_type.php:222
+msgid "Membership Period (In Days)"
+msgstr "Thời hạn của Bạn đọc(Ngày)"
+
+#: admin/modules/membership/member_type.php:193
+#: admin/modules/membership/member_type.php:217
+#: admin/modules/membership/member_type.php:223
+msgid "Reborrow Limit"
+msgstr "Hạn đặt chỗ"
+
+#: admin/modules/membership/member_type.php:195
+msgid "Fine Each Day"
+msgstr "Tiền phạt (nếu trễ hạn)"
+
+#: admin/modules/membership/member_type.php:197
+msgid "Overdue Grace Periode"
+msgstr "Tính trễ hạn sau"
+
+#: admin/modules/membership/member_type.php:244
+msgid "Found <strong>{result->num_rows}</strong> from your keywords"
+msgstr "Tìm thấy <strong>{result->num_rows}</strong> kết quả bằng từ khóa"
+
+#: admin/modules/membership/export.php:88
+msgid "Error on query to database, Export FAILED!"
+msgstr "Lỗi truy vấn cơ sở dữ liệu, Xuất dữ liệu không thành công !"
+
+#: admin/modules/membership/export.php:109
+msgid "There is no record in membership database yet, Export FAILED!"
+msgstr "Không có dữ liệu trong bảng Bạn đọc, Xuất dữ liệu không thành công !"
+
+#: admin/modules/membership/export.php:119
+msgid "Export member(s) data to CSV file"
+msgstr "Xuất dữ liệu Bạn đọc định dạng CSV"
+
+#: admin/modules/membership/export.php:126
+msgid "Export Now"
+msgstr "Xuất dữ liệu"
+
+#: admin/modules/membership/export.php:141
+msgid "Record Separator"
+msgstr "Dấu phân tách bản ghi"
+
+#: admin/modules/circulation/fines_list.php:67
+msgid "Fines Description and Debet value can't be empty"
+msgstr ""
+
+#: admin/modules/circulation/fines_list.php:69
+msgid "Value of Credit can not be higher that Debet Value"
+msgstr "Giá trị Tín dụng không được cao hơn Giá trị Nợ"
+
+#: admin/modules/circulation/fines_list.php:87
+msgid "Fines Data Successfully Updated"
+msgstr "Dữ liệu tiền phạt được cập nhật thành công"
+
+#: admin/modules/circulation/fines_list.php:88
+msgid "Fines Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Không thể cập nhật dữ liệu tiền phạt. Vui lòng liên hệ Admin"
+
+#: admin/modules/circulation/fines_list.php:94
+msgid "New Fines Data Successfully Saved"
+msgstr "Dữ liệu tiền phạt mới đã được lưu thành công"
+
+#: admin/modules/circulation/fines_list.php:95
+msgid "Fines Data FAILED to Save. Please Contact System Administrator"
+msgstr "Dữ liệu tiền phạt đã Không lưu vào CSDL. Vui lòng liên hệ Quản trị hệ thống"
+
+#: admin/modules/circulation/fines_list.php:131
+msgid "Add New Fines"
+msgstr "Thêm tiền phạt"
+
+#: admin/modules/circulation/fines_list.php:132
+msgid "Fines List"
+msgstr "Danh sách phạt"
+
+#: admin/modules/circulation/fines_list.php:133
+msgid "View Balanced Overdue"
+msgstr "Đã thanh toán"
+
+#: admin/modules/circulation/fines_list.php:170
+#: admin/modules/circulation/fines_list.php:194
+msgid "Fines Date"
+msgstr "Ngày phạt"
+
+#: admin/modules/circulation/fines_list.php:172
+#: admin/modules/circulation/fines_list.php:193
+msgid "Description/Name"
+msgstr "Mô tả/ Tên"
+
+#: admin/modules/circulation/fines_list.php:174
+#: admin/modules/circulation/fines_list.php:195
+msgid "Debit"
+msgstr "Số tiền phạt"
+
+#: admin/modules/circulation/fines_list.php:176
+#: admin/modules/circulation/fines_list.php:196
+msgid "Credit"
+msgstr "Đã thanh toán"
+
+#: admin/modules/circulation/fines_list.php:180
+msgid "You are going to edit fines data"
+msgstr "Bạn sẽ chỉnh sửa dữ liệu phạt"
+
+#: admin/modules/circulation/member_loan_hist.php:62
+#: admin/modules/circulation/loan_list.php:96
+#: admin/modules/circulation/loan.php:141
+#: admin/modules/circulation/reserve_list.php:96
+msgid "Item Code"
+msgstr "Mã đăng ký cá biệt"
+
+#: admin/modules/circulation/member_loan_hist.php:64
+#: admin/modules/circulation/loan_list.php:96
+#: admin/modules/circulation/circulation_action.php:284
+#: admin/modules/circulation/loan.php:141
+msgid "Loan Date"
+msgstr "Ngày mượn"
+
+#: admin/modules/circulation/member_loan_hist.php:65
+msgid "Not Returned Yet"
+msgstr "Đang mượn"
+
+#: admin/modules/circulation/member_loan_hist.php:65
+msgid "Returned Date"
+msgstr "Ngày trả"
+
+#: admin/modules/circulation/submenu.php:26
+msgid "Circulation"
+msgstr "Lưu thông"
+
+#: admin/modules/circulation/submenu.php:29
+#: admin/modules/circulation/loan_rules.php:129
+msgid "Loan Rules"
+msgstr "Chính sách lưu thông"
+
+#: admin/modules/circulation/submenu.php:29
+msgid "View and Modify Circulation Loan Rules"
+msgstr "Xem và thay đổi chính sách lưu thông"
+
+#: admin/modules/circulation/submenu.php:30
+#: admin/modules/circulation/circulation_action.php:499
+msgid "Loan History"
+msgstr "Lịch sử mượn trả"
+
+#: admin/modules/circulation/submenu.php:30
+msgid "Loan History Overview"
+msgstr "Lịch sử mượn trả của bạn đọc"
+
+#: admin/modules/circulation/submenu.php:31
+msgid "Overdued List"
+msgstr "Đang mượn quá hạn"
+
+#: admin/modules/circulation/submenu.php:31
+msgid "View Members Having Overdues"
+msgstr "Bạn đọc đang mượn tài liệu quá hạn"
+
+#: admin/modules/circulation/submenu.php:32
+msgid "Reservation"
+msgstr "Đặt chỗ"
+
+#: admin/modules/circulation/loan_list.php:60
+msgid "Are you sure you want to return the item"
+msgstr "Bạn chắc chắn ghi trả tài liệu này"
+
+#: admin/modules/circulation/loan_list.php:62
+msgid "Are you sure to extend loan for"
+msgstr "Bạn chắc chắn gia hạn Bạn đọc đã chọn"
+
+#: admin/modules/circulation/loan_list.php:96
+#: admin/modules/circulation/pop_loan_receipt.php:141
+#: admin/modules/circulation/quick_return.php:64
+msgid "Return"
+msgstr "Ghi trả"
+
+#: admin/modules/circulation/loan_list.php:96
+msgid "Col. Type"
+msgstr "Loại"
+
+#: admin/modules/circulation/loan_list.php:96
+#: admin/modules/circulation/circulation_action.php:284
+#: admin/modules/circulation/loan.php:141
+msgid "Due Date"
+msgstr "Ngày trả"
+
+#: admin/modules/circulation/loan_list.php:106
+msgid "Return this item"
+msgstr "Trả tài liệu"
+
+#: admin/modules/circulation/loan_list.php:110
+#: admin/modules/circulation/loan_list.php:114
+#: admin/modules/circulation/loan_list.php:116
+msgid "No Extend"
+msgstr "Không gia hạn"
+
+#: admin/modules/circulation/loan_list.php:118
+msgid "Extend loan for this item"
+msgstr "Gia hạn"
+
+#: admin/modules/circulation/loan_list.php:123
+#: admin/modules/circulation/pop_loan_receipt.php:86
+msgid "Extended"
+msgstr "Gia hạn"
+
+#: admin/modules/circulation/loan_list.php:130
+msgid "OVERDUED for"
+msgstr "Tài liệu quá hạn"
+
+#: admin/modules/circulation/loan_list.php:130
+msgid "days(s) with fines value"
+msgstr "ngày(s) với số tiền phạt"
+
+#: admin/modules/circulation/loan_list.php:166
+#: admin/modules/circulation/circulation_action.php:270
+msgid "Item {itemCode} is being reserved by member {member}"
+msgstr ""
+
+#: admin/modules/circulation/loan_list.php:172
+msgid "Send overdues notice e-mail"
+msgstr "Gởi Email thông báo"
+
+#: admin/modules/circulation/loan_rules.php:77
+msgid "Loan Rules Successfully Updated"
+msgstr ""
+
+#: admin/modules/circulation/loan_rules.php:79
+msgid "Loan Rules FAILED to Updated. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/circulation/loan_rules.php:85
+msgid "New Loan Rules Successfully Saved"
+msgstr ""
+
+#: admin/modules/circulation/loan_rules.php:87
+msgid "Loan Rules FAILED to Save. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/circulation/loan_rules.php:133
+msgid "Add New Loan Rules"
+msgstr "Thêm chính sách lưu thông"
+
+#: admin/modules/circulation/loan_rules.php:134
+msgid "Loan Rules List"
+msgstr "Chính sách lưu thông"
+
+#: admin/modules/circulation/loan_rules.php:193
+#: admin/modules/circulation/loan_rules.php:198
+msgid "ALL"
+msgstr "Tất cả"
+
+#: admin/modules/circulation/loan_rules.php:206
+#: admin/modules/circulation/loan_rules.php:236
+#: admin/modules/circulation/loan_rules.php:243
+msgid "Loan Period"
+msgstr "Thời hạn mượn (ngày)"
+
+#: admin/modules/circulation/loan_rules.php:210
+msgid "Fines Each Day"
+msgstr "Số tiền phạt"
+
+#: admin/modules/circulation/loan_rules.php:216
+msgid "You are going to edit loan rules"
+msgstr ""
+
+#: admin/modules/circulation/loan_rules.php:216
+#: admin/modules/circulation/loan_rules.php:237
+#: admin/modules/circulation/loan_rules.php:244
+msgid "Last Update"
+msgstr "Lần cập nhật cuối cùng"
+
+#: admin/modules/circulation/index.php:57
+msgid "CIRCULATION - Insert a member ID to start transaction with keyboard or barcode reader"
+msgstr "Nhập mã số thẻ bạn đọc"
+
+#: admin/modules/circulation/index.php:75
+msgid "Transaction with member {member_id} is completed"
+msgstr "Ghi mượn cho Bạn đọc {member_id}  đã kết thúc"
+
+#: admin/modules/circulation/circulation_action.php:57
+msgid "ERROR! Loan data can't be saved to database"
+msgstr ""
+
+#: admin/modules/circulation/circulation_action.php:65
+msgid "Transaction finished"
+msgstr "Hoàn thành ghi mượn"
+
+#: admin/modules/circulation/circulation_action.php:93
+#: admin/modules/circulation/circulation_action.php:115
+msgid "Overdue fines inserted to fines database"
+msgstr ""
+
+#: admin/modules/circulation/circulation_action.php:106
+msgid "Item CANNOT BE Extended! This Item is being reserved by other member"
+msgstr ""
+
+#: admin/modules/circulation/circulation_action.php:113
+msgid "Loan Extended"
+msgstr ""
+
+#: admin/modules/circulation/circulation_action.php:141
+#: admin/modules/circulation/circulation_action.php:148
+msgid "Loan Limit Reached!"
+msgstr "Bạn đã mượn tối đa số lượng cho phép !"
+
+#: admin/modules/circulation/circulation_action.php:141
+#: admin/modules/circulation/circulation_action.php:162
+msgid "Do You Want To Overide This?"
+msgstr "Bạn có muốn cho phép mượn thêm?"
+
+#: admin/modules/circulation/circulation_action.php:162
+msgid "WARNING! This Item is reserved by another member"
+msgstr "Cảnh báo! Tài liệu này đã được giữ chỗ"
+
+#: admin/modules/circulation/circulation_action.php:172
+msgid "This Item is not registered in database"
+msgstr "Không có thông tin trong bảng dữ liệu"
+
+#: admin/modules/circulation/circulation_action.php:177
+msgid "This Item is currently not available"
+msgstr "Đăng ký cá biệt đang được cho mượn"
+
+#: admin/modules/circulation/circulation_action.php:182
+msgid "Loan NOT PERMITTED! Membership already EXPIRED!"
+msgstr "Không cho phép ghi mượn! Bạn đọc đã hết hạn!"
+
+#: admin/modules/circulation/circulation_action.php:187
+msgid "Loan NOT PERMITTED! Membership under PENDING State!"
+msgstr "Không cho phép ghi mượn! Bạn đọc chưa kích hoạt!"
+
+#: admin/modules/circulation/circulation_action.php:192
+msgid "Loan Forbidden for this Item!"
+msgstr "Tài liệu này không cho phép mượn!"
+
+#: admin/modules/circulation/circulation_action.php:229
+msgid "Item {removeID} removed from session"
+msgstr ""
+
+#: admin/modules/circulation/circulation_action.php:246
+msgid "This is item already returned or not exists in loan database"
+msgstr ""
+
+#: admin/modules/circulation/circulation_action.php:257
+msgid "OVERDUED for {overdueDays} days(s) with fines value of"
+msgstr "Tài liệu quá hạn {overdueDays} ngày với số tiền phạt là"
+
+#: admin/modules/circulation/circulation_action.php:281
+msgid " successfully returned on"
+msgstr " thao tác thành công"
+
+#: admin/modules/circulation/circulation_action.php:309
+msgid "NO DATA Selected to reserve!"
+msgstr "Không có dữ liệu Lựa chọn để dự trữ!"
+
+#: admin/modules/circulation/circulation_action.php:322
+msgid "Can not add more reservation. Maximum limit reached"
+msgstr "Không thể đặt chỗ. Đã đến giới hạn tối đa cho phép đặt chỗ"
+
+#: admin/modules/circulation/circulation_action.php:340
+msgid "Can't reserve this Item. Loan Forbidden!"
+msgstr "Đã có lỗi phát sinh !"
+
+#: admin/modules/circulation/circulation_action.php:358
+msgid "Reservation added"
+msgstr "Thêm đặt chỗ"
+
+#: admin/modules/circulation/circulation_action.php:363
+msgid "Item for this title is already available or already on hold by this member!"
+msgstr ""
+
+#: admin/modules/circulation/circulation_action.php:382
+msgid "Reservation removed"
+msgstr "Hủy bỏ đặt chỗ"
+
+#: admin/modules/circulation/circulation_action.php:397
+msgid "Fines data removed"
+msgstr ""
+
+#: admin/modules/circulation/circulation_action.php:421
+msgid " not valid (unregistered in database)"
+msgstr ""
+
+#: admin/modules/circulation/circulation_action.php:450
+msgid "Finish Transaction"
+msgstr "Hoàn thành ghi mượn"
+
+#: admin/modules/circulation/circulation_action.php:450
+msgid "Are you sure want to finish current transaction?"
+msgstr "Bạn chắc chăn kết thúc Ghi mượn ?"
+
+#: admin/modules/circulation/circulation_action.php:466
+msgid "Member Email"
+msgstr "Địa chỉ Email"
+
+#: admin/modules/circulation/circulation_action.php:486
+msgid "Membership currently in pending state, loan transaction is locked."
+msgstr ""
+
+#: admin/modules/circulation/circulation_action.php:493
+msgid "Loans"
+msgstr "Ghi mượn"
+
+#: admin/modules/circulation/circulation_action.php:494
+msgid "Current Loans"
+msgstr "Đang mượn"
+
+#: admin/modules/circulation/circulation_action.php:498
+msgid "Fines"
+msgstr "Tiền phạt"
+
+#: admin/modules/circulation/pop_loan_receipt.php:86
+#: admin/modules/circulation/loan.php:127
+msgid "Loan"
+msgstr "Ghi mượn"
+
+#: admin/modules/circulation/quick_return.php:53
+msgid "Quick Return is disabled"
+msgstr "Chưc năng ghi trả bị vô hiệu hóa"
+
+#: admin/modules/circulation/quick_return.php:59
+msgid "Insert an item ID to return collection with keyboard or barcode reader"
+msgstr "Nhập mã đăng ký cá biệt (ID) để ghi trả"
+
+#: admin/modules/circulation/quick_return.php:62
+msgid "Item ID"
+msgstr "Mã đăng ký cá biệt"
+
+#: admin/modules/circulation/loan.php:125
+msgid "Insert Item Code/Barcode"
+msgstr "Nhập mã đăng ký cá biệt"
+
+#: admin/modules/circulation/loan.php:141
+#: admin/modules/circulation/reserve_list.php:96
+msgid "Remove"
+msgstr "Thu hồi"
+
+#: admin/modules/circulation/loan.php:154
+msgid "Click To Change Loan Date"
+msgstr "Nhấp vào Thay đổi Ngày cho mượn"
+
+#: admin/modules/circulation/loan.php:155
+msgid "Click To Change Due Date"
+msgstr "Nhấp để Thay đổi thời gian"
+
+#: admin/modules/circulation/reserve_list.php:55
+msgid "Are you sure to remove reservation for"
+msgstr "Bạn chắc chắn xóa đặt chỗ"
+
+#: admin/modules/circulation/reserve_list.php:69
+msgid "Search Collection"
+msgstr "Tìm kiếm"
+
+#: admin/modules/circulation/reserve_list.php:76
+msgid "Add Reserve"
+msgstr "Thêm đặt chỗ"
+
+#: admin/modules/circulation/reserve_list.php:96
+msgid "Reserve Date"
+msgstr "Ngày đặt chỗ"
+
+#: admin/modules/circulation/reserve_list.php:110
+msgid "Available"
+msgstr "Sẵn có"
+
+#: admin/modules/circulation/reserve_list.php:114
+msgid "ALREADY EXPIRED"
+msgstr "Hạn cuối cùng"
+
+#: admin/modules/serial_control/subscription.php:70
+msgid "Error inserting subscription data, Subscription Date must be filled!"
+msgstr ""
+
+#: admin/modules/serial_control/subscription.php:90
+msgid "Subscription Data Successfully Updated"
+msgstr ""
+
+#: admin/modules/serial_control/subscription.php:92
+msgid "Subscription Data FAILED to Updated. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/serial_control/subscription.php:106
+msgid "New Subscription Data Successfully Saved"
+msgstr ""
+
+#: admin/modules/serial_control/subscription.php:108
+msgid "Subscription Data FAILED to Save. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/serial_control/subscription.php:144
+msgid "Subscription data successfully deleted"
+msgstr ""
+
+#: admin/modules/serial_control/subscription.php:146
+msgid "Subscription data FAILED to deleted!"
+msgstr ""
+
+#: admin/modules/serial_control/subscription.php:183
+#: admin/modules/serial_control/subscription.php:226
+msgid "Subscription Start"
+msgstr "Ngày phát hành"
+
+#: admin/modules/serial_control/subscription.php:186
+msgid "Total Exemplar Expected"
+msgstr "Số bản"
+
+#: admin/modules/serial_control/subscription.php:189
+#: admin/modules/serial_control/subscription.php:225
+msgid "Period Name"
+msgstr "Tên ấn phẩm"
+
+#: admin/modules/serial_control/subscription.php:191
+#: admin/modules/serial_control/subscription.php:227
+msgid "Subscription Notes"
+msgstr "Ghi chú"
+
+#: admin/modules/serial_control/subscription.php:205
+msgid "You are going to edit Subscription data"
+msgstr ""
+
+#: admin/modules/serial_control/subscription.php:215
+msgid "View/Edit Kardex Detail"
+msgstr "Xem/chỉnh sửa dữ liệu"
+
+#: admin/modules/serial_control/submenu.php:27
+msgid "Serial Control"
+msgstr "Ấn phẩm định kỳ"
+
+#: admin/modules/serial_control/submenu.php:28
+msgid "Subscription"
+msgstr "Đăng ký mới"
+
+#: admin/modules/serial_control/submenu.php:28
+msgid "Manage Subscription"
+msgstr ""
+
+#: admin/modules/serial_control/index.php:109
+msgid "Edit Bibliographic data"
+msgstr ""
+
+#: admin/modules/serial_control/index.php:111
+msgid "Add New Subscription"
+msgstr "Đăng ký mới"
+
+#: admin/modules/serial_control/index.php:113
+msgid "View Subscriptions"
+msgstr "Danh sách"
+
+#: admin/modules/serial_control/index.php:115
+msgid "CLOSE"
+msgstr "ĐÓNG"
+
+#: admin/modules/serial_control/index.php:123
+msgid "Serial Title"
+msgstr ""
+
+#: admin/modules/serial_control/kardex.php:67
+msgid "Kardex data updated!"
+msgstr ""
+
+#: admin/modules/serial_control/kardex.php:73
+msgid "Kardex data deleted!"
+msgstr ""
+
+#: admin/modules/serial_control/serial_base_lib.inc.php:151
+msgid "Date Expected"
+msgstr "Ngày phát hành"
+
+#: admin/modules/serial_control/serial_base_lib.inc.php:152
+msgid "Date Received"
+msgstr "Ngày nhận"
+
+#: admin/modules/serial_control/serial_base_lib.inc.php:152
+msgid "Seq. Number"
+msgstr ""
+
+#: admin/modules/serial_control/serial_base_lib.inc.php:153
+msgid "Note"
+msgstr ""
+
+#: admin/modules/serial_control/serial_base_lib.inc.php:201
+msgid "Kardex Detail for subscription"
+msgstr ""
+
+#: admin/modules/stock_take/finish.php:52
+msgid "NO stock taking proccess running!"
+msgstr ""
+
+#: admin/modules/stock_take/finish.php:154
+msgid "Stock Take Proccess Finished!"
+msgstr ""
+
+#: admin/modules/stock_take/finish.php:163
+#: admin/modules/stock_take/finish.php:171
+#: admin/modules/stock_take/submenu.php:33
+msgid "Finish Stock Take"
+msgstr ""
+
+#: admin/modules/stock_take/finish.php:164
+msgid "Are you sure to end current stock take proccess? Once it finished there is no way you can rollback this stock take"
+msgstr ""
+
+#: admin/modules/stock_take/finish.php:181
+msgid "Purge Lost Item"
+msgstr ""
+
+#: admin/modules/stock_take/current.php:56
+#: admin/modules/stock_take/st_upload.php:49
+#: admin/modules/stock_take/st_report.php:53
+msgid "NO stock taking proccess initialized yet!"
+msgstr ""
+
+#: admin/modules/stock_take/current.php:68
+msgid "STOCK TAKE PROCCESS - Insert Item Code/Barcode with keyboard or barcode scanner"
+msgstr ""
+
+#: admin/modules/stock_take/current.php:70
+msgid "Change Status"
+msgstr "Thay đổi trạng thái"
+
+#: admin/modules/stock_take/current.php:71
+msgid "List stocktakes by"
+msgstr ""
+
+#: admin/modules/stock_take/current.php:72
+msgid "Current User Only"
+msgstr ""
+
+#: admin/modules/stock_take/current.php:73
+msgid "All User"
+msgstr "Tất cả người dùng"
+
+#: admin/modules/stock_take/current.php:77
+msgid "Current Missing/Lost Items"
+msgstr ""
+
+#: admin/modules/stock_take/current.php:102
+msgid "Exists"
+msgstr ""
+
+#: admin/modules/stock_take/current.php:102
+msgid "On Loan"
+msgstr "Đang mượn"
+
+#: admin/modules/stock_take/current.php:102
+msgid "Missing"
+msgstr "Còn thiếu"
+
+#: admin/modules/stock_take/st_upload.php:108
+msgid "Succesfully upload stock take file"
+msgstr ""
+
+#: admin/modules/stock_take/st_upload.php:108
+msgid " item codes scanned!"
+msgstr ""
+
+#: admin/modules/stock_take/st_upload.php:125
+msgid "STOCK TAKE UPLOAD - Upload a plain text file (.txt) containing list of Item Code to stock take. Each Item Code separated by line."
+msgstr ""
+
+#: admin/modules/stock_take/st_upload.php:127
+msgid " File"
+msgstr ""
+
+#: admin/modules/stock_take/st_upload.php:128
+msgid "Upload File"
+msgstr ""
+
+#: admin/modules/stock_take/lost_item_list.php:53
+#: admin/modules/stock_take/submenu.php:34
+msgid "Current Lost Item"
+msgstr "Tài liệu hiện đang mất"
+
+#: admin/modules/stock_take/lost_item_list.php:53
+msgid "Report Filter"
+msgstr "Lọc danh sách"
+
+#: admin/modules/stock_take/lost_item_list.php:57
+msgid "Title/ISBN"
+msgstr "Nhan đề/ISBN"
+
+#: admin/modules/stock_take/lost_item_list.php:123
+msgid "Apply Filter"
+msgstr "Áp dụng bộ lọc"
+
+#: admin/modules/stock_take/lost_item_list.php:124
+msgid "Show More Filter Options"
+msgstr "Hiển thị thêm các tùy chọn"
+
+#: admin/modules/stock_take/submenu.php:26
+#: admin/modules/stock_take/index.php:54
+msgid "Stock Take"
+msgstr "Kiểm kê"
+
+#: admin/modules/stock_take/submenu.php:27
+msgid "Stock Take History"
+msgstr "Lịch sử"
+
+#: admin/modules/stock_take/submenu.php:27
+msgid "View Stock Take History"
+msgstr "Xem lịch sử"
+
+#: admin/modules/stock_take/submenu.php:31
+msgid "Current Stock Take"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:31
+msgid "View Current Stock Take Process"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:32
+msgid "Stock Take Report"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:32
+msgid "View Current Stock Take Report"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:33
+msgid "Finish Current Stock Take Proccess"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:34
+msgid "View Lost Item in Current Stock Take Proccess"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:35
+#: admin/modules/stock_take/st_log.php:55
+msgid "Stock Take Log"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:35
+msgid "View Log of Current Stock Take Proccess"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:36
+msgid "Resynchronize"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:36
+msgid "Resynchronize bibliographic data with current stock take"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:37
+msgid "Upload List"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:37
+msgid "Upload List in text file"
+msgstr ""
+
+#: admin/modules/stock_take/submenu.php:39
+msgid "Initialize"
+msgstr "Mở kỳ kiểm kê"
+
+#: admin/modules/stock_take/submenu.php:39
+msgid "Initialize New Stock Take Proccess"
+msgstr "Mở kỳ kiểm kê mới"
+
+#: admin/modules/stock_take/st_report.php:62
+msgid "CURRENT STOCK TAKE REPORT"
+msgstr "Báo cáo kho sách hiện tại"
+
+#: admin/modules/stock_take/st_report.php:65
+msgid "Download Report"
+msgstr "Tải về báo cáo"
+
+#: admin/modules/stock_take/st_report.php:75
+#: admin/modules/stock_take/index.php:66 admin/modules/stock_take/index.php:83
+#: admin/modules/stock_take/index.php:115 admin/modules/stock_take/init.php:157
+msgid "Stock Take Name"
+msgstr "Kỳ kiểm kê"
+
+#: admin/modules/stock_take/st_report.php:76
+#: admin/modules/stock_take/index.php:70
+msgid "Total Item Stock Taked"
+msgstr "Tổng số xếp giá đã kiểm kê"
+
+#: admin/modules/stock_take/st_report.php:78
+#: admin/modules/stock_take/st_report.php:79
+#: admin/modules/stock_take/st_report.php:80
+#: admin/modules/stock_take/index.php:71
+msgid "Total Item Lost"
+msgstr "Tổng số xếp giá mất"
+
+#: admin/modules/stock_take/st_report.php:80
+#: admin/modules/stock_take/st_report.php:84
+msgid "None"
+msgstr "Không"
+
+#: admin/modules/stock_take/st_report.php:84
+#: admin/modules/stock_take/st_report.php:86
+#: admin/modules/stock_take/index.php:73
+msgid "Total Item On Loan"
+msgstr ""
+
+#: admin/modules/stock_take/st_report.php:92
+msgid "Total Checked/Scanned Items"
+msgstr ""
+
+#: admin/modules/stock_take/st_report.php:94
+#: admin/modules/stock_take/st_report.php:99
+#: admin/modules/stock_take/st_report.php:104
+#: admin/modules/stock_take/index.php:74
+msgid "Stock Take Participants"
+msgstr ""
+
+#: admin/modules/stock_take/st_report.php:99
+msgid "items already checked"
+msgstr ""
+
+#: admin/modules/stock_take/st_report.php:106
+#: admin/modules/stock_take/index.php:67 admin/modules/stock_take/index.php:116
+msgid "Start Date"
+msgstr ""
+
+#: admin/modules/stock_take/st_report.php:108
+#: admin/modules/stock_take/index.php:68 admin/modules/stock_take/index.php:117
+msgid "End Date"
+msgstr ""
+
+#: admin/modules/stock_take/st_report.php:129
+#: admin/modules/stock_take/st_report.php:167
+msgid "Lost Items"
+msgstr ""
+
+#: admin/modules/stock_take/st_report.php:130
+#: admin/modules/stock_take/st_report.php:168
+msgid "Existing Items"
+msgstr ""
+
+#: admin/modules/stock_take/st_report.php:131
+#: admin/modules/stock_take/st_report.php:169
+msgid "On Loan Items"
+msgstr ""
+
+#: admin/modules/stock_take/st_report.php:134
+msgid " classes"
+msgstr ""
+
+#: admin/modules/stock_take/index.php:69
+msgid "Initializer"
+msgstr ""
+
+#: admin/modules/stock_take/index.php:72
+msgid "Total Item Exists"
+msgstr ""
+
+#: admin/modules/stock_take/index.php:75 admin/modules/stock_take/index.php:90
+msgid "Status"
+msgstr ""
+
+#: admin/modules/stock_take/index.php:76 admin/modules/stock_take/index.php:118
+msgid "Report"
+msgstr ""
+
+#: admin/modules/stock_take/index.php:92
+msgid "Currently Active"
+msgstr ""
+
+#: admin/modules/stock_take/init.php:52
+msgid "There is already stock taking proccess running!"
+msgstr ""
+
+#: admin/modules/stock_take/init.php:56
+msgid "Stock Take Name must be filled!"
+msgstr ""
+
+#: admin/modules/stock_take/init.php:135
+msgid "Stock Taking Initialized"
+msgstr ""
+
+#: admin/modules/stock_take/init.php:140
+msgid "Stock Taking FAILED to Initialized.\\nNo item to stock take!"
+msgstr ""
+
+#: admin/modules/stock_take/init.php:148
+msgid "Initialize Stock Take"
+msgstr "Tạo kỳ kiểm kê"
+
+#: admin/modules/stock_take/init.php:183
+msgid "Shelf Location"
+msgstr "Vị trí kệ"
+
+#: admin/modules/stock_take/init.php:186
+msgid "Separate each class comma sign. Use * for wildcard"
+msgstr "Dấu phẩy phân cách từng lớp. Sử dụng * cho ký tự đại diện"
+
+#: admin/modules/stock_take/resync.php:67
+msgid "Re-synchronize will only update current stock take's item data. It won't update any new bibliographic or item data that were inserted in the middle of stock take proccess"
+msgstr ""
+
+#: admin/modules/stock_take/resync.php:70
+msgid "Resynchronize Now"
+msgstr "Đồng bộ hóa lại ngay bây giờ"
+
+#: admin/modules/reporting/charts_report.php:71
+msgid "Total Titles By Medium/GMD"
+msgstr "Tổng số nhan đề theo Medium/GMD"
+
+#: admin/modules/reporting/charts_report.php:83
+msgid "Total Items By Collection Type"
+msgstr "Tổng số bản theo bộ sưu tập"
+
+#: admin/modules/reporting/charts_report.php:97
+msgid "Total Members By Membership Type"
+msgstr "Tổng số Bạn đọc theo nhóm"
+
+#: admin/modules/reporting/charts_report.php:109
+msgid "Total Loan By GMD/Medium"
+msgstr "Tổng số lượt mượn theo GMD/Medium"
+
+#: admin/modules/reporting/charts_report.php:122
+msgid "Total Loan By Collection Type"
+msgstr "Tổng số lượt mượn theo bộ sứu tập"
+
+#: admin/modules/reporting/submenu.php:27
+msgid "Reporting"
+msgstr "Thống kê"
+
+#: admin/modules/reporting/submenu.php:28
+msgid "Collection Statistic"
+msgstr "Bộ sưu tập"
+
+#: admin/modules/reporting/submenu.php:28
+msgid "View Library Collection Statistic"
+msgstr "Tài liệu theo bộ sưu tập"
+
+#: admin/modules/reporting/submenu.php:29
+msgid "Loan Report"
+msgstr "Báo cáo ghi mượn"
+
+#: admin/modules/reporting/submenu.php:29
+msgid "View Library Loan Report"
+msgstr "Tổng quát dữ liệu mượn trả"
+
+#: admin/modules/reporting/submenu.php:30
+msgid "Membership Report"
+msgstr "Thống kê Bạn đọc"
+
+#: admin/modules/reporting/submenu.php:30
+msgid "View Membership Report"
+msgstr "Tổng quát dữ liệu bạn đọc"
+
+#: admin/modules/reporting/submenu.php:31
+msgid "Other Reports"
+msgstr ""
+
+#: admin/modules/reporting/index.php:60
+msgid "Total Titles"
+msgstr "Tổng số nhan đề"
+
+#: admin/modules/reporting/index.php:65
+msgid "Total Titles with items"
+msgstr "Tổng số nhan đề đã xếp giá"
+
+#: admin/modules/reporting/index.php:70 admin/modules/reporting/index.php:80
+msgid "Total Items/Copies"
+msgstr "Tổng số bản"
+
+#: admin/modules/reporting/index.php:77 admin/modules/reporting/index.php:80
+msgid "Total Checkout Items"
+msgstr "Tổng số bản đang mượn"
+
+#: admin/modules/reporting/index.php:80
+msgid "Total Items In Library"
+msgstr "Tổng số bản còn lại"
+
+#: admin/modules/reporting/index.php:87 admin/modules/reporting/index.php:101
+#: admin/modules/reporting/loan_report.php:61
+#: admin/modules/reporting/loan_report.php:72
+#: admin/modules/reporting/member_report.php:66
+msgid "Show in chart/plot"
+msgstr "Hiển thị biểu đồ"
+
+#: admin/modules/reporting/index.php:118
+msgid "10 Most Popular Titles"
+msgstr "10 Nhan đề phổ biến nhất"
+
+#: admin/modules/reporting/index.php:121
+msgid "Collection Statistic Summary"
+msgstr "Tóm tắt Thống kê Bộ sưu tập"
+
+#: admin/modules/reporting/index.php:150
+msgid "Collection Statistic Report"
+msgstr "Báo cáo Thống kê Bộ sưu tập"
+
+#: admin/modules/reporting/report_dbgrid.inc.php:88
+msgid "record(s) found. Currently displaying page"
+msgstr "(s) dữ liệu được tìm thấy"
+
+#: admin/modules/reporting/report_dbgrid.inc.php:88
+msgid "record each page"
+msgstr "số dòng/trang"
+
+#: admin/modules/reporting/report_dbgrid.inc.php:88
+#: admin/modules/reporting/customs/class_recap.php:261
+#: admin/modules/reporting/customs/visitor_report.php:173
+#: admin/modules/reporting/customs/loan_by_class.php:225
+#: admin/modules/reporting/customs/fines_report.php:136
+msgid "Print Current Page"
+msgstr "In trang hiện tại"
+
+#: admin/modules/reporting/loan_report.php:53
+msgid "Total Loan"
+msgstr "Tổng số đã mượn"
+
+#: admin/modules/reporting/loan_report.php:84
+#: admin/modules/reporting/loan_report.php:90
+msgid "Total Loan Transactions"
+msgstr "Tổng số lần mượn"
+
+#: admin/modules/reporting/loan_report.php:90
+msgid "Transaction Average (Per Day)"
+msgstr "Trung bình lần mượn (Trong ngày)"
+
+#: admin/modules/reporting/loan_report.php:93
+msgid "Total Peak Transaction"
+msgstr "Tổng số lượt mượn nhiều nhất"
+
+#: admin/modules/reporting/loan_report.php:98
+#: admin/modules/reporting/loan_report.php:105
+msgid "Members Already Had Loans"
+msgstr "Bạn đọc đã mượn tài liệu"
+
+#: admin/modules/reporting/loan_report.php:105
+msgid "Members Never Have Loans Yet"
+msgstr "Bạn đọc chưa từng mượn tài liệu"
+
+#: admin/modules/reporting/loan_report.php:111
+msgid "Total Overdued Loans"
+msgstr "Tổng số lần mượn quá hạn"
+
+#: admin/modules/reporting/loan_report.php:114
+msgid "Loan Data Summary"
+msgstr "Tóm tắt dữ liệu lưu thông"
+
+#: admin/modules/reporting/member_report.php:53
+msgid "Total Registered Members"
+msgstr "Tổng số Bạn đọc"
+
+#: admin/modules/reporting/member_report.php:59
+msgid "Total Active Member"
+msgstr "Tổng số Bạn đọc đã kích hoạt"
+
+#: admin/modules/reporting/member_report.php:76
+msgid "Total Expired Member"
+msgstr "Tổng số Bạn đọc hết hạn"
+
+#: admin/modules/reporting/member_report.php:87
+msgid "10 most active members"
+msgstr "10 Bạn đọc tích cực nhất"
+
+#: admin/modules/reporting/member_report.php:90
+msgid "Membership Data Summary"
+msgstr "Tóm tắt dữ liệu Bạn đọc"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:28
+#: admin/modules/reporting/customs/class_recap.php:59
+msgid "Custom Recapitulations"
+msgstr "Thống kê tùy chỉnh"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:28
+msgid "Title and Collection recapitulation based on classification and others"
+msgstr ""
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:29
+msgid "Title List"
+msgstr "Danh sách theo nhan đề"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:29
+msgid "List of bibliographic titles"
+msgstr ""
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:30
+#: admin/modules/reporting/customs/item_titles_list.php:60
+msgid "Items Title List"
+msgstr "Danh sách theo xếp giá"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:30
+msgid "List of collection/items"
+msgstr ""
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:31
+msgid "Items Usage Statistics"
+msgstr "Thống kê theo năm"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:31
+msgid "List of Collection/items usage statistic"
+msgstr "Mượn trả tài liệu theo năm"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:32
+#: admin/modules/reporting/customs/loan_by_class.php:55
+msgid "Loans by Classification"
+msgstr "Theo số phân loại"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:32
+msgid "Loan statistic by classification"
+msgstr "Mượn trả tài liệu theo số phân loại"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:33
+msgid "List of library member/patron"
+msgstr "Danh sách Bạn đọc"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:34
+#: admin/modules/reporting/customs/member_loan_list.php:60
+msgid "Loan List by Member"
+msgstr "Bạn đọc đang mượn"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:34
+msgid "List of loan by each member"
+msgstr "Bạn đọc đang mượn theo tên, nhóm, ngày"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:36
+msgid "Due Date Warning"
+msgstr "Gần đến hạn trả"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:36
+msgid "Loan Due Date Warnings"
+msgstr "Bạn đọc gần đến hạn trả tài liệu"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:38
+#: admin/modules/reporting/customs/staff_act.php:59
+msgid "Staff Activity"
+msgstr "Hoạt động của nhân viên"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:38
+msgid "Staff activity log recapitulation"
+msgstr "Nhật ký hoạt động của nhân viên"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:39
+msgid "Visitor Statistic"
+msgstr "Thống kê truy cập"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:40
+msgid "Visitor Statistic (by Day)"
+msgstr "Thống kê truy cập (theo ngày)"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:41
+#: admin/modules/reporting/customs/visitor_list.php:61
+msgid "Visitor List"
+msgstr "Danh sách truy cập"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:42
+#: admin/modules/reporting/customs/fines_report.php:70
+msgid "Fines Report"
+msgstr "Báo cáo tiền phạt"
+
+#: admin/modules/reporting/customs/visitor_list.php:71
+msgid "NON-Member visitor"
+msgstr "Khách không phải là Bạn đọc"
+
+#: admin/modules/reporting/customs/visitor_list.php:80
+msgid "Visitor ID"
+msgstr "ID khách truy cập"
+
+#: admin/modules/reporting/customs/visitor_list.php:80
+#: admin/modules/reporting/customs/visitor_list.php:129
+msgid "Visitor Name"
+msgstr "Tên Bạn đọc"
+
+#: admin/modules/reporting/customs/visitor_list.php:92
+msgid "Visit Date From"
+msgstr "Từ ngày"
+
+#: admin/modules/reporting/customs/visitor_list.php:98
+msgid "Visit Date Until"
+msgstr "Đến ngày"
+
+#: admin/modules/reporting/customs/visitor_list.php:104
+#: admin/modules/reporting/customs/member_list.php:114
+#: admin/modules/reporting/customs/loan_history.php:116
+#: admin/modules/reporting/customs/item_titles_list.php:137
+#: admin/modules/reporting/customs/overdued_list.php:93
+#: admin/modules/reporting/customs/member_loan_list.php:88
+msgid "Record each page"
+msgstr "Số dòng/trang"
+
+#: admin/modules/reporting/customs/visitor_list.php:105
+#: admin/modules/reporting/customs/member_list.php:115
+#: admin/modules/reporting/customs/loan_history.php:117
+#: admin/modules/reporting/customs/item_titles_list.php:138
+#: admin/modules/reporting/customs/overdued_list.php:94
+#: admin/modules/reporting/customs/member_loan_list.php:89
+msgid "Set between 20 and 200"
+msgstr "Nhập trong khoảng 20 và 200"
+
+#: admin/modules/reporting/customs/visitor_list.php:132
+msgid "Visit Date"
+msgstr ""
+
+#: admin/modules/reporting/customs/class_recap.php:63
+msgid "Recap By"
+msgstr "Thống kê theo"
+
+#: admin/modules/reporting/customs/class_recap.php:78
+msgid "Hide Filter Options"
+msgstr ""
+
+#: admin/modules/reporting/customs/class_recap.php:96
+msgid "Items"
+msgstr "Thông tin xếp giá"
+
+#: admin/modules/reporting/customs/class_recap.php:261
+msgid "Title and Collection Recap by"
+msgstr "Thống kê nhan đề và bộ sưu tập theo"
+
+#: admin/modules/reporting/customs/staff_act.php:63
+msgid "Activity Date From"
+msgstr "Ngày hoạt động"
+
+#: admin/modules/reporting/customs/staff_act.php:69
+msgid "Activity Date Until"
+msgstr "Hoạt động đến ngày"
+
+#: admin/modules/reporting/customs/staff_act.php:93
+msgid "Real Name"
+msgstr "Họ tên"
+
+#: admin/modules/reporting/customs/staff_act.php:94
+msgid "Login Username"
+msgstr "Tên đăng nhập"
+
+#: admin/modules/reporting/customs/staff_act.php:95
+msgid "Bibliography Data Entry"
+msgstr "Nhập dữ liệu thư mục"
+
+#: admin/modules/reporting/customs/staff_act.php:96
+msgid "Item Data Entry"
+msgstr "Nhập dữ liệu xếp giá"
+
+#: admin/modules/reporting/customs/staff_act.php:97
+msgid "Member Data Entry"
+msgstr ""
+
+#: admin/modules/reporting/customs/staff_act.php:98
+msgid "Circulation Tasks"
+msgstr "Phân quyền lưu thông"
+
+#: admin/modules/reporting/customs/member_list.php:102
+msgid "Register Date From"
+msgstr "Từ ngày đăng ký"
+
+#: admin/modules/reporting/customs/member_list.php:108
+msgid "Register Date Until"
+msgstr "Đến ngày đăng ký"
+
+#: admin/modules/reporting/customs/loan_history.php:94
+#: admin/modules/reporting/customs/overdued_list.php:77
+#: admin/modules/reporting/customs/member_loan_list.php:72
+msgid "Loan Date From"
+msgstr "Bắt đầu từ ngày"
+
+#: admin/modules/reporting/customs/loan_history.php:102
+#: admin/modules/reporting/customs/overdued_list.php:85
+#: admin/modules/reporting/customs/member_loan_list.php:80
+msgid "Loan Date Until"
+msgstr "Cho đến ngày"
+
+#: admin/modules/reporting/customs/loan_history.php:110
+#: admin/modules/reporting/customs/loan_history.php:147
+msgid "Loan Status"
+msgstr "Lưu thông"
+
+#: admin/modules/reporting/customs/loan_history.php:112
+#: admin/modules/reporting/customs/loan_history.php:197
+msgid "Returned"
+msgstr "Đã trả"
+
+#: admin/modules/reporting/customs/visitor_report.php:55
+msgid "Library Visitor Report"
+msgstr "Thống kê khách truy cập"
+
+#: admin/modules/reporting/customs/visitor_report.php:59
+#: admin/modules/reporting/customs/loan_by_class.php:93
+#: admin/modules/reporting/customs/fines_report.php:74
+msgid "Year"
+msgstr "Năm"
+
+#: admin/modules/reporting/customs/visitor_report.php:84
+#: admin/modules/reporting/customs/loan_by_class.php:119
+#: admin/modules/reporting/customs/fines_report.php:47
+msgid "Jan"
+msgstr "Tháng 1"
+
+#: admin/modules/reporting/customs/visitor_report.php:85
+#: admin/modules/reporting/customs/loan_by_class.php:120
+#: admin/modules/reporting/customs/fines_report.php:48
+msgid "Feb"
+msgstr "Tháng 2"
+
+#: admin/modules/reporting/customs/visitor_report.php:86
+#: admin/modules/reporting/customs/loan_by_class.php:121
+#: admin/modules/reporting/customs/fines_report.php:49
+msgid "Mar"
+msgstr "Tháng 3"
+
+#: admin/modules/reporting/customs/visitor_report.php:87
+#: admin/modules/reporting/customs/loan_by_class.php:122
+#: admin/modules/reporting/customs/fines_report.php:50
+msgid "Apr"
+msgstr "Tháng 4"
+
+#: admin/modules/reporting/customs/visitor_report.php:88
+#: admin/modules/reporting/customs/loan_by_class.php:123
+#: admin/modules/reporting/customs/fines_report.php:51
+msgid "May"
+msgstr "Tháng 5"
+
+#: admin/modules/reporting/customs/visitor_report.php:89
+#: admin/modules/reporting/customs/loan_by_class.php:124
+#: admin/modules/reporting/customs/fines_report.php:52
+msgid "Jun"
+msgstr "Tháng 6"
+
+#: admin/modules/reporting/customs/visitor_report.php:90
+#: admin/modules/reporting/customs/loan_by_class.php:125
+#: admin/modules/reporting/customs/fines_report.php:53
+msgid "Jul"
+msgstr "Tháng 7"
+
+#: admin/modules/reporting/customs/visitor_report.php:91
+#: admin/modules/reporting/customs/loan_by_class.php:126
+#: admin/modules/reporting/customs/fines_report.php:54
+msgid "Aug"
+msgstr "Tháng 8"
+
+#: admin/modules/reporting/customs/visitor_report.php:92
+#: admin/modules/reporting/customs/loan_by_class.php:127
+#: admin/modules/reporting/customs/fines_report.php:55
+msgid "Sep"
+msgstr "Tháng 9"
+
+#: admin/modules/reporting/customs/visitor_report.php:93
+#: admin/modules/reporting/customs/loan_by_class.php:128
+#: admin/modules/reporting/customs/fines_report.php:56
+msgid "Oct"
+msgstr "Tháng 10"
+
+#: admin/modules/reporting/customs/visitor_report.php:94
+#: admin/modules/reporting/customs/loan_by_class.php:129
+#: admin/modules/reporting/customs/fines_report.php:57
+msgid "Nov"
+msgstr "Tháng 11"
+
+#: admin/modules/reporting/customs/visitor_report.php:95
+#: admin/modules/reporting/customs/loan_by_class.php:130
+#: admin/modules/reporting/customs/fines_report.php:58
+msgid "Dec"
+msgstr "Tháng 12"
+
+#: admin/modules/reporting/customs/visitor_report.php:147
+msgid "NON-Member Visitor"
+msgstr "Khách truy cập không phải Bạn đọc"
+
+#: admin/modules/reporting/customs/visitor_report.php:164
+msgid "Total visit/month"
+msgstr "Tổng số truy cập/tháng"
+
+#: admin/modules/reporting/customs/item_titles_list.php:91
+msgid "Press Ctrl and click to select multiple entries"
+msgstr "Nhấn Ctrl và nhấp để chọn nhiều mục nhập"
+
+#: admin/modules/reporting/customs/item_titles_list.php:109
+#: admin/modules/reporting/customs/item_titles_list.php:165
+msgid "Item Status"
+msgstr "Tình trạng tài liệu"
+
+#: admin/modules/reporting/customs/overdued_list.php:182
+msgid "Price"
+msgstr "Giá"
+
+#: admin/modules/reporting/customs/overdued_list.php:183
+msgid "Overdue"
+msgstr "Quá hạn"
+
+#: admin/modules/reporting/customs/overdued_list.php:183
+msgid "day(s)"
+msgstr "ngày(s)"
+
+#: admin/modules/reporting/customs/loan_by_class.php:62
+msgid "0 Classes"
+msgstr ""
+
+#: admin/modules/reporting/customs/loan_by_class.php:63
+msgid "1 Classes"
+msgstr ""
+
+#: admin/modules/reporting/customs/loan_by_class.php:64
+msgid "2 Classes"
+msgstr ""
+
+#: admin/modules/reporting/customs/loan_by_class.php:65
+msgid "2X Classes (Islamic Related)"
+msgstr ""
+
+#: admin/modules/reporting/customs/loan_by_class.php:66
+msgid "3 Classes"
+msgstr ""
+
+#: admin/modules/reporting/customs/loan_by_class.php:67
+msgid "4 Classes"
+msgstr ""
+
+#: admin/modules/reporting/customs/loan_by_class.php:68
+msgid "5 Classes"
+msgstr ""
+
+#: admin/modules/reporting/customs/loan_by_class.php:69
+msgid "6 Classes"
+msgstr ""
+
+#: admin/modules/reporting/customs/loan_by_class.php:70
+msgid "7 Classes"
+msgstr ""
+
+#: admin/modules/reporting/customs/loan_by_class.php:71
+msgid "8 Classes"
+msgstr ""
+
+#: admin/modules/reporting/customs/loan_by_class.php:72
+msgid "9 Classes"
+msgstr ""
+
+#: admin/modules/reporting/customs/loan_by_class.php:73
+msgid "NON Decimal Classes"
+msgstr ""
+
+#: admin/modules/reporting/customs/fines_report.php:87
+msgid "Month"
+msgstr "Tháng"
+
+#: admin/modules/reporting/customs/titles_list.php:71
+#: admin/modules/master_file/submenu.php:30
+msgid "Author"
+msgstr "Tác giả"
+
+#: admin/modules/reporting/customs/titles_list.php:157
+msgid "Copies"
+msgstr "Số bản"
+
+#: admin/modules/reporting/customs/visitor_report_day.php:70
+msgid "Visitor Report"
+msgstr "Thống kê truy cập"
+
+#: admin/modules/reporting/customs/due_date_warning.php:61
+msgid "This report loan items which will due in 3 to 0 days"
+msgstr "Báo cáo này cho các lần mượn đến hạn sau 3 đến 0 ngày"
+
+#: admin/modules/reporting/customs/reserve_list.php:86
+msgid "Reserve Date From"
+msgstr "Từ ngày"
+
+#: admin/modules/reporting/customs/reserve_list.php:94
+msgid "Reserve Date Until"
+msgstr "Đến ngày"
+
+#: admin/modules/master_file/place.php:56
+msgid "Place Name can't be empty"
+msgstr "Tên  không đươc bỏ trống"
+
+#: admin/modules/master_file/place.php:74
+msgid "Place Data Successfully Updated"
+msgstr "Cập nhật dữ liệu thành công"
+
+#: admin/modules/master_file/place.php:76
+msgid "Place Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Cập nhật dữ liệu thất bại"
+
+#: admin/modules/master_file/place.php:83
+msgid "New Place Data Successfully Saved"
+msgstr "Thêm mới dữ liệu thành công"
+
+#: admin/modules/master_file/place.php:85
+msgid "Place Data FAILED to Save. Please Contact System Administrator"
+msgstr "Không thể thêm mới dữ liệu"
+
+#: admin/modules/master_file/place.php:126
+#: admin/modules/master_file/submenu.php:34
+msgid "Place"
+msgstr "Nơi xuất bản"
+
+#: admin/modules/master_file/place.php:126
+msgid "Add New Place"
+msgstr "Thêm nơi xuất bản mới"
+
+#: admin/modules/master_file/place.php:127
+msgid "Place List"
+msgstr "Danh sách nơi xuất bản"
+
+#: admin/modules/master_file/place.php:169
+#: admin/modules/master_file/place.php:186
+#: admin/modules/master_file/place.php:189
+#: admin/modules/master_file/submenu.php:34
+msgid "Place Name"
+msgstr "Tên"
+
+#: admin/modules/master_file/place.php:173
+msgid "You are going to edit place data"
+msgstr "Bạn đang chỉnh sửa dữ liệu"
+
+#: admin/modules/master_file/topic.php:56
+msgid "Subject can't be empty"
+msgstr "Chủ đề không được bỏ trống"
+
+#: admin/modules/master_file/topic.php:77
+msgid "Subject Data Successfully Updated"
+msgstr "Cập nhật dữ liệu thành công"
+
+#: admin/modules/master_file/topic.php:79
+msgid "Subject Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Cập nhật dữ liệu thất bại. Vui lòng liên hệ quản trị viên"
+
+#: admin/modules/master_file/topic.php:86
+msgid "New Subject Data Successfully Saved"
+msgstr "Thêm chủ đề mới thành công"
+
+#: admin/modules/master_file/topic.php:88
+msgid "Subject Data FAILED to Save. Please Contact System Administrator"
+msgstr "Không thể thêm mới chủ đề. Vui lòng liên hệ quản trị viên"
+
+#: admin/modules/master_file/topic.php:130
+#: admin/modules/master_file/topic.php:173
+#: admin/modules/master_file/topic.php:207
+#: admin/modules/master_file/topic.php:213
+#: admin/modules/master_file/submenu.php:31
+msgid "Subject"
+msgstr "Chủ đề"
+
+#: admin/modules/master_file/topic.php:130
+msgid "Add New Subject"
+msgstr "Thêm chủ đề mới"
+
+#: admin/modules/master_file/topic.php:131
+msgid "Subject List"
+msgstr "Danh sách chủ đề"
+
+#: admin/modules/master_file/topic.php:175
+msgid "Classification Code"
+msgstr "Mã phân loại"
+
+#: admin/modules/master_file/topic.php:180
+#: admin/modules/master_file/topic.php:209
+#: admin/modules/master_file/topic.php:215
+msgid "Subject Type"
+msgstr "Chủ đề"
+
+#: admin/modules/master_file/topic.php:182
+#: admin/modules/master_file/topic.php:210
+#: admin/modules/master_file/topic.php:216
+#: admin/modules/master_file/submenu.php:26
+msgid "AUTHORITY FILES"
+msgstr "DỮ LIỆU CHUNG"
+
+#: admin/modules/master_file/topic.php:186
+msgid "You are going to edit Subject data"
+msgstr ""
+
+#: admin/modules/master_file/topic.php:208
+#: admin/modules/master_file/topic.php:214
+msgid "Class. Code"
+msgstr "Mã lớp DDC"
+
+#: admin/modules/master_file/coll_type.php:56
+msgid "Collection type name can't be empty"
+msgstr "Tên loại bộ sưu tập không được để trống"
+
+#: admin/modules/master_file/coll_type.php:74
+msgid "Colllection Type Data Successfully Updated"
+msgstr "Dữ liệu bộ sưu tập cập nhật thành công"
+
+#: admin/modules/master_file/coll_type.php:76
+msgid "Colllection Type Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Dữ liệu bộ sưu tập không thể cập nhật. Vui lòng liên hệ quản trị hệ thống"
+
+#: admin/modules/master_file/coll_type.php:83
+msgid "New Colllection Type Data Successfully Saved"
+msgstr "Lưu dữ liệu thành công"
+
+#: admin/modules/master_file/coll_type.php:85
+msgid "Author Data FAILED to Save. Please Contact System Administrator"
+msgstr "Không thể cập nhật dữ liệu Tác giả. Vui lòng liên hệ Quản trị hệ thống"
+
+#: admin/modules/master_file/coll_type.php:115
+#: admin/modules/master_file/location.php:119
+msgid "Location ({item_name}) still used by {number_items} item(s)"
+msgstr ""
+
+#: admin/modules/master_file/coll_type.php:127
+#: admin/modules/master_file/location.php:131
+msgid "Below data can not be deleted:"
+msgstr "Không thể xóa dữ liệu dưới đây:"
+
+#: admin/modules/master_file/coll_type.php:146
+msgid "Add New Collection Type"
+msgstr "Thêm thể loại Bộ sưu tập mới"
+
+#: admin/modules/master_file/coll_type.php:147
+msgid "Collection Type List"
+msgstr "Danh sách bộ sưu tập"
+
+#: admin/modules/master_file/coll_type.php:192
+msgid "You are going to edit collection type data"
+msgstr "Bạn đang chỉnh sửa dữ liệu"
+
+#: admin/modules/master_file/submenu.php:27
+msgid "General Material Designation"
+msgstr "Vật liệu"
+
+#: admin/modules/master_file/submenu.php:28
+msgid "Document Publisher"
+msgstr "Nhà xuất bản tài liệu"
+
+#: admin/modules/master_file/submenu.php:29
+msgid "Supplier"
+msgstr "Nhà cung cấp"
+
+#: admin/modules/master_file/submenu.php:29
+msgid "Item Supplier"
+msgstr ""
+
+#: admin/modules/master_file/submenu.php:30
+msgid "Document Authors"
+msgstr "Tác giả tài liệu"
+
+#: admin/modules/master_file/submenu.php:32
+msgid "Item Location"
+msgstr ""
+
+#: admin/modules/master_file/submenu.php:33
+msgid "LOOKUP FILES"
+msgstr "DỮ LIỆU 2"
+
+#: admin/modules/master_file/submenu.php:37
+#: admin/modules/master_file/doc_language.php:129
+msgid "Doc. Language"
+msgstr "Ngôn ngữ tài liệu"
+
+#: admin/modules/master_file/submenu.php:37
+msgid "Document Content Language"
+msgstr "Ngôn ngữ nội dung tài liệu"
+
+#: admin/modules/master_file/submenu.php:38
+#: admin/modules/master_file/label.php:166
+msgid "Label"
+msgstr "Nhãn"
+
+#: admin/modules/master_file/submenu.php:38
+msgid "Special Labels for Titles to Show Up On Homepage"
+msgstr "Nổi bật trên nhan đề trên trang chủ"
+
+#: admin/modules/master_file/submenu.php:39
+#: admin/modules/master_file/frequency.php:127
+#: admin/modules/master_file/frequency.php:170
+#: admin/modules/master_file/frequency.php:204
+#: admin/modules/master_file/frequency.php:210
+msgid "Frequency"
+msgstr "Lịch phát hành"
+
+#: admin/modules/master_file/submenu.php:41
+msgid "Orphaned Author"
+msgstr "Tác giả đã xóa"
+
+#: admin/modules/master_file/submenu.php:41
+msgid "Orphaned Authors"
+msgstr "Tác giả đã xóa"
+
+#: admin/modules/master_file/submenu.php:42
+msgid "Orphaned Subject"
+msgstr "Chủ đề đã xóa"
+
+#: admin/modules/master_file/location.php:57
+msgid "Location ID and Name can't be empty"
+msgstr "ID kho và tên kho không được bỏ trống"
+
+#: admin/modules/master_file/location.php:76
+msgid "Location Data Successfully Updated"
+msgstr "Dữ liệu đã cập nhật thành công"
+
+#: admin/modules/master_file/location.php:80
+msgid "Location Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Dữ liệu cập nhật thất bại. Vui lòng liên hệ quản trị viên"
+
+#: admin/modules/master_file/location.php:87
+msgid "New Location Data Successfully Saved"
+msgstr "Dữ liệu đã được thêm thành công"
+
+#: admin/modules/master_file/location.php:89
+msgid "Location Data FAILED to Save. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/location.php:150
+msgid "Add New Location"
+msgstr "Thêm kho mới"
+
+#: admin/modules/master_file/location.php:151
+msgid "Location List"
+msgstr "Danh sách kho"
+
+#: admin/modules/master_file/location.php:193
+#: admin/modules/master_file/location.php:212
+#: admin/modules/master_file/location.php:216
+msgid "Location Code"
+msgstr "Ký hiệu kho"
+
+#: admin/modules/master_file/location.php:195
+#: admin/modules/master_file/location.php:213
+#: admin/modules/master_file/location.php:217
+msgid "Location Name"
+msgstr "Tên kho"
+
+#: admin/modules/master_file/location.php:199
+msgid "You are going to edit location data"
+msgstr "Đang đang sửa dữ liệu kho"
+
+#: admin/modules/master_file/frequency.php:76
+msgid "Frequency Data Successfully Updated"
+msgstr ""
+
+#: admin/modules/master_file/frequency.php:78
+msgid "Frequency Data FAILED to Updated. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/frequency.php:84
+msgid "New Frequency Data Successfully Saved"
+msgstr ""
+
+#: admin/modules/master_file/frequency.php:86
+msgid "Frequency Data FAILED to Save. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/frequency.php:127
+msgid "Add New Frequency"
+msgstr "Thêm mới"
+
+#: admin/modules/master_file/frequency.php:128
+msgid "Frequency Available"
+msgstr "Tần suất"
+
+#: admin/modules/master_file/frequency.php:180
+#: admin/modules/master_file/frequency.php:206
+#: admin/modules/master_file/frequency.php:212
+msgid "Time Increment"
+msgstr "Tăng thời gia"
+
+#: admin/modules/master_file/frequency.php:182
+msgid "Day"
+msgstr "Ngày"
+
+#: admin/modules/master_file/frequency.php:183
+msgid "Week"
+msgstr "Tuần"
+
+#: admin/modules/master_file/frequency.php:186
+#: admin/modules/master_file/frequency.php:207
+#: admin/modules/master_file/frequency.php:213
+msgid "Time Unit"
+msgstr "Đơn vị thời gian"
+
+#: admin/modules/master_file/frequency.php:190
+msgid "You are going to edit Frequency data"
+msgstr "Bạn sẽ chỉnh sửa dữ liệu"
+
+#: admin/modules/master_file/doc_language.php:56
+msgid "Language ID or Name can't be empty"
+msgstr ""
+
+#: admin/modules/master_file/doc_language.php:75
+msgid "Language Data Successfully Updated"
+msgstr ""
+
+#: admin/modules/master_file/doc_language.php:79
+msgid "Language Data FAILED to Updated. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/doc_language.php:86
+msgid "New Language Data Successfully Saved"
+msgstr ""
+
+#: admin/modules/master_file/doc_language.php:88
+msgid "Language Data FAILED to Save. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/doc_language.php:129
+msgid "Add New Language"
+msgstr "Thêm ngôn ngữ mới"
+
+#: admin/modules/master_file/doc_language.php:130
+msgid "Language List"
+msgstr ""
+
+#: admin/modules/master_file/doc_language.php:172
+msgid "Language Code"
+msgstr ""
+
+#: admin/modules/master_file/doc_language.php:177
+msgid "You are going to edit language data"
+msgstr ""
+
+#: admin/modules/master_file/label.php:115
+msgid "Label Data Successfully Updated"
+msgstr ""
+
+#: admin/modules/master_file/label.php:117
+msgid "Label Data FAILED to Updated. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/label.php:123
+msgid "New Label Data Successfully Saved"
+msgstr ""
+
+#: admin/modules/master_file/label.php:125
+msgid "Label Data FAILED to Save. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/label.php:166
+msgid "Add New Label"
+msgstr "Thêm nhãn mới"
+
+#: admin/modules/master_file/label.php:167
+msgid "Label List"
+msgstr ""
+
+#: admin/modules/master_file/label.php:209
+#: admin/modules/master_file/label.php:240
+#: admin/modules/master_file/label.php:244
+msgid "Label Name"
+msgstr ""
+
+#: admin/modules/master_file/label.php:222
+#: admin/modules/master_file/label.php:239
+#: admin/modules/master_file/label.php:243
+msgid "Label Description"
+msgstr ""
+
+#: admin/modules/master_file/label.php:226
+msgid "You are going to edit Label data"
+msgstr ""
+
+#: admin/modules/master_file/index.php:60
+msgid "GMD Code And Name can't be empty"
+msgstr ""
+
+#: admin/modules/master_file/index.php:79
+msgid "GMD Data Successfully Updated"
+msgstr ""
+
+#: admin/modules/master_file/index.php:81
+msgid "GMD Data FAILED to Updated. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/index.php:87
+msgid "New GMD Data Successfully Saved"
+msgstr ""
+
+#: admin/modules/master_file/index.php:89
+msgid "GMD Data FAILED to Save. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/index.php:130
+msgid "Add New GMD"
+msgstr "Thêm mới"
+
+#: admin/modules/master_file/index.php:131
+msgid "GMD List"
+msgstr "Danh sách"
+
+#: admin/modules/master_file/index.php:173
+#: admin/modules/master_file/index.php:192
+#: admin/modules/master_file/index.php:196
+msgid "GMD Code"
+msgstr "Mã GMD"
+
+#: admin/modules/master_file/index.php:175
+#: admin/modules/master_file/index.php:193
+#: admin/modules/master_file/index.php:197
+msgid "GMD Name"
+msgstr "Tên GMD"
+
+#: admin/modules/master_file/index.php:179
+msgid "You are going to edit gmd data"
+msgstr "Bạn đang chỉnh sửa dữ liệu vật liệu"
+
+#: admin/modules/master_file/item_status.php:52
+msgid "No Loan Transaction"
+msgstr "Không thể mượn trả"
+
+#: admin/modules/master_file/item_status.php:53
+msgid "Skipped By Stock Take"
+msgstr ""
+
+#: admin/modules/master_file/item_status.php:61
+msgid "Item Status ID and Name can't be empty"
+msgstr ""
+
+#: admin/modules/master_file/item_status.php:99
+msgid "Item Status Data Successfully Updated"
+msgstr ""
+
+#: admin/modules/master_file/item_status.php:103
+msgid "Item Status Data FAILED to Updated. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/item_status.php:110
+msgid "New Item Status Data Successfully Saved"
+msgstr ""
+
+#: admin/modules/master_file/item_status.php:112
+msgid "Item Status Data FAILED to Save. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/item_status.php:153
+msgid "Add New Item Status"
+msgstr ""
+
+#: admin/modules/master_file/item_status.php:196
+#: admin/modules/master_file/item_status.php:224
+#: admin/modules/master_file/item_status.php:228
+msgid "Item Status Code"
+msgstr ""
+
+#: admin/modules/master_file/item_status.php:198
+#: admin/modules/master_file/item_status.php:225
+#: admin/modules/master_file/item_status.php:229
+msgid "Item Status Name"
+msgstr ""
+
+#: admin/modules/master_file/item_status.php:207
+msgid "Rules"
+msgstr ""
+
+#: admin/modules/master_file/item_status.php:211
+msgid "You are going to edit Item Status data"
+msgstr ""
+
+#: admin/modules/master_file/publisher.php:56
+msgid "Publisher Name can't be empty"
+msgstr ""
+
+#: admin/modules/master_file/publisher.php:74
+msgid "Publisher Data Successfully Updated"
+msgstr ""
+
+#: admin/modules/master_file/publisher.php:76
+msgid "PUBLISHER Data FAILED to Updated. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/publisher.php:83
+msgid "New Publisher Data Successfully Saved"
+msgstr ""
+
+#: admin/modules/master_file/publisher.php:85
+msgid "Publisher Data FAILED to Save. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/master_file/publisher.php:126
+msgid "Add New Publisher"
+msgstr "Thêm Nhà xuất bản Mới"
+
+#: admin/modules/master_file/publisher.php:127
+msgid "Publisher List"
+msgstr "Danh sách nhà xuất bản"
+
+#: admin/modules/master_file/publisher.php:169
+#: admin/modules/master_file/publisher.php:187
+#: admin/modules/master_file/publisher.php:191
+msgid "Publisher Name"
+msgstr "Tên nhà xuất bản"
+
+#: admin/modules/master_file/publisher.php:173
+msgid "You are going to edit publisher data"
+msgstr "Bạn đang chỉnh sửa dữ liệu nhà xuất bản"
+
+#: admin/modules/master_file/author.php:58
+msgid "Author name can't be empty"
+msgstr "Tên tác giả không được bỏ trống"
+
+#: admin/modules/master_file/author.php:80
+msgid "Author Data Successfully Updated"
+msgstr "Dữ liệu tác giả Cập Nhật thành công"
+
+#: admin/modules/master_file/author.php:82
+msgid "Author Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Không thể cập nhật dữ liệu Tác giả. Vui lòng liên hệ Quản trị hệ thống"
+
+#: admin/modules/master_file/author.php:89
+msgid "New Author Data Successfully Saved"
+msgstr "Thêm Tác giả mới thành công"
+
+#: admin/modules/master_file/author.php:132
+msgid "Add New Author"
+msgstr "Thêm tác giả mới"
+
+#: admin/modules/master_file/author.php:133
+msgid "Author List"
+msgstr "Danh sách tác giả"
+
+#: admin/modules/master_file/author.php:175
+#: admin/modules/master_file/author.php:210
+#: admin/modules/master_file/author.php:216
+msgid "Author Name"
+msgstr "Tên tác giả"
+
+#: admin/modules/master_file/author.php:177
+msgid "Author Birth Year"
+msgstr "Sinh năm"
+
+#: admin/modules/master_file/author.php:182
+#: admin/modules/master_file/author.php:212
+#: admin/modules/master_file/author.php:218
+msgid "Authority Type"
+msgstr "Giấy phép"
+
+#: admin/modules/master_file/author.php:188
+msgid "You are going to edit author data"
+msgstr ""
+
+#: admin/modules/master_file/author.php:211
+#: admin/modules/master_file/author.php:217
+msgid "Author Year"
+msgstr "Sinh năm"
+
+#: admin/modules/master_file/supplier.php:56
+msgid "Supplier Name can't be empty"
+msgstr "Tên nhà cung cấp không được để trống"
+
+#: admin/modules/master_file/supplier.php:80
+msgid "Supplier Data Successfully Updated"
+msgstr "Cập nhật dữ liệu nhà cung cấp thành công"
+
+#: admin/modules/master_file/supplier.php:82
+msgid "Supplier Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Không thể cập nhật dữ liệu nhà cung cấp"
+
+#: admin/modules/master_file/supplier.php:89
+msgid "New Supplier Data Successfully Saved"
+msgstr "Tạo dữ liệu nhà cung cấp thành công"
+
+#: admin/modules/master_file/supplier.php:92
+msgid "Supplier Data FAILED to Save. Please Contact System Administrator"
+msgstr "Không thể tạo dữ liệu nhà cung cấp"
+
+#: admin/modules/master_file/supplier.php:134
+msgid "Add New Supplier"
+msgstr "Thêm nhà cung cấp mới"
+
+#: admin/modules/master_file/supplier.php:135
+msgid "Supplier List"
+msgstr "Danh sách nhà cung cấp"
+
+#: admin/modules/master_file/supplier.php:177
+#: admin/modules/master_file/supplier.php:204
+#: admin/modules/master_file/supplier.php:210
+msgid "Supplier Name"
+msgstr "Tên nhà cung cấp"
+
+#: admin/modules/master_file/supplier.php:181
+#: admin/modules/master_file/supplier.php:205
+#: admin/modules/master_file/supplier.php:211
+msgid "Contact"
+msgstr "Liện hệ"
+
+#: admin/modules/master_file/supplier.php:187
+msgid "Account Number"
+msgstr "Số tài khoản"
+
+#: admin/modules/master_file/supplier.php:191
+msgid "You are going to edit Supplier data"
+msgstr ""
+
+#: admin/modules/system/barcode_generator.php:103
+#: admin/modules/system/barcode_generator.php:135
+#: admin/modules/system/submenu.php:40
+msgid "Barcode Generator"
+msgstr "Tạo mã vạch"
+
+#: admin/modules/system/barcode_generator.php:118
+msgid "Error creating barcode!"
+msgstr "Đã có lỗi khi tạo mã vạch !"
+
+#: admin/modules/system/barcode_generator.php:124
+msgid "Barcode generation finished"
+msgstr "Tạo mã vạch đã xong"
+
+#: admin/modules/system/barcode_generator.php:135
+msgid "Type barcodes text to one or more text field below and click"
+msgstr "Nhập dữ liệu cần tạo mã vạch vào các field bên dưới"
+
+#: admin/modules/system/barcode_generator.php:135
+#: admin/modules/system/barcode_generator.php:165
+msgid "Generate Barcodes"
+msgstr "Tạo mã vạch"
+
+#: admin/modules/system/barcode_generator.php:149
+msgid "Barcode Size"
+msgstr "Kích thước mã vạch"
+
+#: admin/modules/system/barcode_generator.php:149
+msgid "Small"
+msgstr "Nhở"
+
+#: admin/modules/system/barcode_generator.php:150
+msgid "Medium"
+msgstr "Trung bình"
+
+#: admin/modules/system/barcode_generator.php:151
+msgid "Big"
+msgstr "Lớn"
+
+#: admin/modules/system/content.php:59
+msgid "Title or Path can't be empty!"
+msgstr "Tiêu đề hoặc đường dẫn không được bỏ trống!"
+
+#: admin/modules/system/content.php:81
+msgid "Content data updated"
+msgstr "Cập nhật bài viết thành công"
+
+#: admin/modules/system/content.php:83
+msgid "Content data FAILED to update!"
+msgstr "Không thể cập nhật bài viết, đã xẩy ra lỗi !"
+
+#: admin/modules/system/content.php:91
+msgid "Content data saved"
+msgstr "Lưu bài viết thành công"
+
+#: admin/modules/system/content.php:93
+msgid "Content data FAILED to save!"
+msgstr "Không thể lưu bài viết, đã xẩy ra lỗi !"
+
+#: admin/modules/system/content.php:140 admin/modules/system/submenu.php:31
+msgid "Content"
+msgstr "Bài viết"
+
+#: admin/modules/system/content.php:140
+msgid "Add New Content"
+msgstr "Thêm bài viết mới"
+
+#: admin/modules/system/content.php:141
+msgid "Content List"
+msgstr "Danh sách bài viết"
+
+#: admin/modules/system/content.php:184 admin/modules/system/content.php:217
+#: admin/modules/system/content.php:221
+msgid "Content Title"
+msgstr "Tiêu đề"
+
+#: admin/modules/system/content.php:186 admin/modules/system/content.php:218
+#: admin/modules/system/content.php:222
+msgid "Path (Must be unique)"
+msgstr ""
+
+#: admin/modules/system/content.php:188
+msgid "Content Description"
+msgstr "Mô tả"
+
+#: admin/modules/system/content.php:192
+msgid "You are going to update Content data"
+msgstr "Cập nhật dữ liệu nội dung"
+
+#: admin/modules/system/module_priv_form.inc.php:31
+#: admin/modules/system/module.php:184 admin/modules/system/module.php:204
+msgid "Module Name"
+msgstr "Tên Module"
+
+#: admin/modules/system/module_priv_form.inc.php:31
+msgid "Read"
+msgstr "Đọc"
+
+#: admin/modules/system/module_priv_form.inc.php:31
+msgid "Write"
+msgstr "Viết"
+
+#: admin/modules/system/user_group.php:55
+msgid "Group name can't be empty"
+msgstr "Tên nhóm không được để trống"
+
+#: admin/modules/system/user_group.php:90
+msgid "Group Data Successfully Updated"
+msgstr "Cập nhật dữ liệu nhóm thành công"
+
+#: admin/modules/system/user_group.php:92
+msgid "Group Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Cập nhật dữ liệu nhóm thất bại. Vui lòng liên hệ quản trị viên"
+
+#: admin/modules/system/user_group.php:118
+msgid "New Group Data Successfully Saved"
+msgstr "Tạo nhóm mới thành công"
+
+#: admin/modules/system/user_group.php:120
+msgid "Group Data FAILED to Save. Please Contact System Administrator"
+msgstr "Không thể lưu dữ liệu nhóm. Vui lòng liên hệ quản trị viên"
+
+#: admin/modules/system/user_group.php:167 admin/modules/system/submenu.php:37
+msgid "User Group"
+msgstr "Nhóm quản trị"
+
+#: admin/modules/system/user_group.php:167
+msgid "Add New Group"
+msgstr "Thêm nhóm mới"
+
+#: admin/modules/system/user_group.php:168
+msgid "Group List"
+msgstr "Danh sách nhóm"
+
+#: admin/modules/system/user_group.php:207
+#: admin/modules/system/user_group.php:234
+msgid "Group Name"
+msgstr "Tên nhóm"
+
+#: admin/modules/system/user_group.php:218
+msgid "Privileges"
+msgstr "Phân quyền"
+
+#: admin/modules/system/user_group.php:223
+msgid "You are going to edit Group data"
+msgstr "Bạn đang sửa dữ liệu nhóm"
+
+#: admin/modules/system/submenu.php:26
+msgid "System"
+msgstr "Hệ thống"
+
+#: admin/modules/system/submenu.php:29 admin/modules/system/index.php:55
+msgid "System Configuration"
+msgstr "Cài đặt hệ thống"
+
+#: admin/modules/system/submenu.php:29
+msgid "Configure Global System Preferences"
+msgstr ""
+
+#: admin/modules/system/submenu.php:34
+msgid "Biblio Indexes"
+msgstr "Chỉ mục"
+
+#: admin/modules/system/submenu.php:34
+msgid "Bibliographic Indexes management"
+msgstr "Quản lý chỉ mục thư mục"
+
+#: admin/modules/system/submenu.php:35 admin/modules/system/module.php:144
+msgid "Modules"
+msgstr ""
+
+#: admin/modules/system/submenu.php:35
+msgid "Configure Application Modules"
+msgstr ""
+
+#: admin/modules/system/submenu.php:36 admin/modules/system/app_user.php:168
+msgid "System Users"
+msgstr ""
+
+#: admin/modules/system/submenu.php:36
+msgid "Manage Application User or Library Staff"
+msgstr ""
+
+#: admin/modules/system/submenu.php:37
+msgid "Manage Group of Application User"
+msgstr ""
+
+#: admin/modules/system/submenu.php:39 admin/modules/system/holiday.php:158
+msgid "Holiday Setting"
+msgstr "Ngày nghỉ"
+
+#: admin/modules/system/submenu.php:39
+msgid "Configure Holiday Setting"
+msgstr "Thiết lập ngày nghỉ"
+
+#: admin/modules/system/submenu.php:41 admin/modules/system/sys_log.php:75
+msgid "System Log"
+msgstr "Nhật ký hệ thống"
+
+#: admin/modules/system/submenu.php:41
+msgid "View Application System Log"
+msgstr "Xem nhật ký hệ thống"
+
+#: admin/modules/system/submenu.php:42 admin/modules/system/backup.php:54
+msgid "Database Backup"
+msgstr "Sao lưu dữ liệu"
+
+#: admin/modules/system/submenu.php:42
+msgid "Backup Application Database"
+msgstr "Sao lưu cơ sở dữ liệu"
+
+#: admin/modules/system/sys_log.php:66
+msgid "System Log data completely cleared!"
+msgstr "Dữ liệu nhật ký hệ thống đã bị xóa hoàn toàn!"
+
+#: admin/modules/system/sys_log.php:77
+msgid "Are you SURE to completely clear system log data? This action cannot be undo!"
+msgstr "Bạn chắc chắn xóa lịch sử đăng nhập hệ thống? Dữ liệu này không thể phục hồi !"
+
+#: admin/modules/system/sys_log.php:77
+msgid "CLEAR LOGS"
+msgstr "Xóa lịch sử"
+
+#: admin/modules/system/sys_log.php:78
+msgid "Save Logs record to file?"
+msgstr "Lưu bản ghi nhật ký vào tệp ?"
+
+#: admin/modules/system/sys_log.php:78
+msgid "Save Logs To File"
+msgstr ""
+
+#: admin/modules/system/sys_log.php:102
+msgid "Time"
+msgstr "Thời gian"
+
+#: admin/modules/system/sys_log.php:104
+msgid "Message"
+msgstr "Thông báo"
+
+#: admin/modules/system/index.php:55
+msgid "Chỉnh sửa dữ liệu theo nhu cầu"
+msgstr ""
+
+#: admin/modules/system/index.php:137
+msgid "Settings saved. Refreshing page"
+msgstr "Đã lưu cài đặt. Làm mới lại trang"
+
+#: admin/modules/system/index.php:144 admin/modules/system/holiday.php:312
+msgid "Save Settings"
+msgstr "Lưu cài đặt"
+
+#: admin/modules/system/index.php:158
+msgid "Library Name"
+msgstr "Tên thư viện"
+
+#: admin/modules/system/index.php:161
+msgid "Library Subname"
+msgstr "Khẩu hiệu"
+
+#: admin/modules/system/index.php:175
+msgid "Public Template"
+msgstr "Giao diện trang chủ"
+
+#: admin/modules/system/index.php:188
+msgid "Admin Template"
+msgstr "Giao diện trang quản trị"
+
+#: admin/modules/system/index.php:192
+msgid "Default App. Language"
+msgstr "Ngôn ngữ mặc định"
+
+#: admin/modules/system/index.php:200
+msgid "Number Of Collections To Show In OPAC Result List"
+msgstr "Số lượng bộ sưu tập hiển thị trang OPAC"
+
+#: admin/modules/system/index.php:204
+msgid "Show Promoted Titles at Homepage"
+msgstr "Hiển thị tiêu đề quảng cáo trang chu"
+
+#: admin/modules/system/index.php:214
+msgid "Don't Print"
+msgstr "Không in"
+
+#: admin/modules/system/index.php:215
+msgid "Print"
+msgstr "In"
+
+#: admin/modules/system/index.php:216
+msgid "Print Circulation Receipt"
+msgstr "In biên lai lưu thông"
+
+#: admin/modules/system/index.php:222
+msgid "Loan and Due Date Manual Change"
+msgstr "Thay đổi thủ công tài liệu mượn và ngày quá hạn"
+
+#: admin/modules/system/index.php:228
+msgid "Loan Limit Override"
+msgstr "Ghi đè giới hạn mượn"
+
+#: admin/modules/system/index.php:234
+msgid "OPAC XML Detail"
+msgstr "Hiển thị XML chi tiết tài liệu"
+
+#: admin/modules/system/index.php:240
+msgid "OPAC XML Result"
+msgstr "Hiển thị XML ở kết quả tìm kiếm"
+
+#: admin/modules/system/index.php:244
+msgid "Forbid"
+msgstr "Cấm"
+
+#: admin/modules/system/index.php:245
+msgid "Allow"
+msgstr "Cho phép"
+
+#: admin/modules/system/index.php:246
+msgid "Allow OPAC File Download"
+msgstr "Cho phép tải tệp tin ở OPAC"
+
+#: admin/modules/system/index.php:249
+msgid "Session Login Timeout"
+msgstr "Thời gian phiên đăng nhập"
+
+#: admin/modules/system/index.php:252
+msgid "Barcode Encoding"
+msgstr "Mã hóa mã vạch"
+
+#: admin/modules/system/biblio_indexes.php:59
+msgid "Index table truncated!"
+msgstr "Bảng chỉ mục bị cắt ngắn!"
+
+#: admin/modules/system/biblio_indexes.php:61
+msgid "Index table FAILED to truncated, probably because of database query error!"
+msgstr ""
+
+#: admin/modules/system/biblio_indexes.php:75
+#, php-format
+msgid "<strong>%d</strong> records (from total of <strong>%d</strong>) re-indexed. Finished in %d minutes %d second(s)"
+msgstr ""
+
+#: admin/modules/system/biblio_indexes.php:77
+#: admin/modules/system/biblio_indexes.php:99
+#, php-format
+msgid "<strong>%d</strong> index records failed to indexed. The IDs are: %s"
+msgstr ""
+
+#: admin/modules/system/biblio_indexes.php:89
+msgid "Please empty the Index first before re-creating the Index"
+msgstr "Vui lòng làm trống Chỉ mục trước khi tạo lại Chỉ mục"
+
+#: admin/modules/system/biblio_indexes.php:97
+#, php-format
+msgid "<strong>%d</strong> records (from total of <strong>%d</strong>) re-indexed. Finished in %d second(s)"
+msgstr ""
+
+#: admin/modules/system/biblio_indexes.php:109
+msgid "Bibliographic Index"
+msgstr "Chỉ mục Thư mục"
+
+#: admin/modules/system/biblio_indexes.php:112
+msgid "Emptying Index"
+msgstr "Xóa chỉ mục"
+
+#: admin/modules/system/biblio_indexes.php:113
+msgid "Re-create Index"
+msgstr "Tạo lại chỉ mục"
+
+#: admin/modules/system/biblio_indexes.php:114
+msgid "Update Index"
+msgstr "Cập nhật chỉ mục"
+
+#: admin/modules/system/module.php:56
+msgid "Module name and path can't be empty"
+msgstr "Tên module và đường dẫn không được bỏ trống"
+
+#: admin/modules/system/module.php:79
+msgid "Module Data Successfully Updated"
+msgstr "Cập nhật module thành công"
+
+#: admin/modules/system/module.php:81
+msgid "Module Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Cập nhật module thất bại"
+
+#: admin/modules/system/module.php:92
+msgid "New Module Data Successfully Saved"
+msgstr "Tạo module mới thành công"
+
+#: admin/modules/system/module.php:94
+msgid "Module Data FAILED to Save. Please Contact System Administrator"
+msgstr "Không thể tạo module mới"
+
+#: admin/modules/system/module.php:144
+msgid "Add New Modules"
+msgstr "Thêm các mô-đun mới"
+
+#: admin/modules/system/module.php:145
+msgid "Modules List"
+msgstr "Danh sách module"
+
+#: admin/modules/system/module.php:186
+msgid "Module Path"
+msgstr "Đường dẫn module"
+
+#: admin/modules/system/module.php:188 admin/modules/system/module.php:205
+msgid "Module Description"
+msgstr "Mô tả module"
+
+#: admin/modules/system/module.php:192
+msgid "You are going to edit data"
+msgstr "Bạn đang chỉnh sửa dữ liệu"
+
+#: admin/modules/system/app_user.php:68
+msgid "User Name or Real Name can't be empty"
+msgstr "Tên đăng nhập hoặc họ tên không được để trống"
+
+#: admin/modules/system/app_user.php:71
+msgid "Login username or Real Name is probihited!"
+msgstr "Tên đăng nhập hoặc họ tên bị cấm!"
+
+#: admin/modules/system/app_user.php:108
+msgid "User Data Successfully Updated"
+msgstr "Đã cập nhật thành công dữ liệu Bạn đọc"
+
+#: admin/modules/system/app_user.php:110
+msgid "User Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Dữ liệu Bạn đọc KHÔNG ĐƯỢC Cập Nhật. Vui lòng liên hệ với quản trị viên hệ thống"
+
+#: admin/modules/system/app_user.php:118
+msgid "New User Data Successfully Saved"
+msgstr "Dữ liệu Bạn đọc mới đã được lưu thành công"
+
+#: admin/modules/system/app_user.php:120
+msgid "User Data FAILED to Save. Please Contact System Administrator"
+msgstr "Dữ liệu Bạn đọc KHÔNG ĐƯỢC lưu. Vui lòng liên hệ với quản trị viên hệ thống"
+
+#: admin/modules/system/app_user.php:168
+msgid "Add New User"
+msgstr "Thêm mới"
+
+#: admin/modules/system/app_user.php:169
+msgid "User List"
+msgstr "Danh sách Bạn đọc"
+
+#: admin/modules/system/app_user.php:239
+msgid "Group(s)"
+msgstr "Nhóm"
+
+#: admin/modules/system/app_user.php:248
+msgid "You are going to edit user profile"
+msgstr "Bạn đang chỉnh sửa dữ liệu"
+
+#: admin/modules/system/app_user.php:269 admin/modules/system/app_user.php:274
+msgid "Last Login"
+msgstr "Lần đăng nhập cuối cùng"
+
+#: admin/modules/system/holiday.php:73
+msgid "Holiday Data Successfully updated"
+msgstr "Dữ liệu được cập nhật thành công"
+
+#: admin/modules/system/holiday.php:79
+msgid "Holiday FAILED to update. Please Contact System Administrator"
+msgstr "Không thể lưu dữ liệu. Vui lòng liên hệ quản trị viên"
+
+#: admin/modules/system/holiday.php:85
+msgid "New Holiday Successfully Saved"
+msgstr "Kỳ nghỉ mới đã được lưu thành công"
+
+#: admin/modules/system/holiday.php:112
+msgid "Holiday FAILED to Save. Please Contact System Administrator"
+msgstr "Không thể lưu dữ liệu. Vui lòng liên hệ quản trị viên"
+
+#: admin/modules/system/holiday.php:160
+msgid "Set holiday"
+msgstr "Cài đặt ngày nghỉ"
+
+#: admin/modules/system/holiday.php:161
+msgid "Special holiday"
+msgstr "Ngày nghỉ đặc biệt"
+
+#: admin/modules/system/holiday.php:162
+msgid "Add Special holiday"
+msgstr "Thêm kỳ nghỉ đặc biệt"
+
+#: admin/modules/system/holiday.php:195 admin/modules/system/holiday.php:219
+#: admin/modules/system/holiday.php:223
+msgid "Holiday Date Start"
+msgstr "Ngày nghỉ bắt đầu"
+
+#: admin/modules/system/holiday.php:198
+msgid "Holiday Date End"
+msgstr "Ngày nghỉ kết thúc"
+
+#: admin/modules/system/holiday.php:201 admin/modules/system/holiday.php:220
+#: admin/modules/system/holiday.php:224
+msgid "Holiday Description"
+msgstr "Mô tả ngày nghỉ"
+
+#: admin/modules/system/holiday.php:205
+msgid "You are going to edit holiday data"
+msgstr "Bạn sẽ chỉnh sửa dữ liệu ngày nghỉ"
+
+#: admin/modules/system/holiday.php:218 admin/modules/system/holiday.php:222
+msgid "Day name"
+msgstr "Tên ngày"
+
+#: admin/modules/system/holiday.php:257
+msgid "Maximum 6 day can be set as holiday!"
+msgstr "Có thể đặt tối đa 6 ngày nghỉ!"
+
+#: admin/modules/system/holiday.php:270
+msgid "Holiday settings saved"
+msgstr "Đã lưu cài đặt ngày nghỉ"
+
+#: admin/modules/system/holiday.php:299
+msgid "Monday"
+msgstr "Thứ 2"
+
+#: admin/modules/system/holiday.php:300
+msgid "Tuesday"
+msgstr "Thứ 3"
+
+#: admin/modules/system/holiday.php:301
+msgid "Wednesday"
+msgstr "Thứ 4"
+
+#: admin/modules/system/holiday.php:303
+msgid "Thursday"
+msgstr "Thứ 5"
+
+#: admin/modules/system/holiday.php:304
+msgid "Friday"
+msgstr "Thứ 6"
+
+#: admin/modules/system/holiday.php:305
+msgid "Saturday"
+msgstr "Thứ 7"
+
+#: admin/modules/system/holiday.php:307
+msgid "Sunday"
+msgstr "Chủ nhật"
+
+#: admin/modules/system/backup.php:54
+msgid "Start New Backup"
+msgstr "Bắt đầu sao lưu mới"
+
+#: admin/modules/bibliography/item_export.php:130
+msgid "There is no record in item database yet, Export FAILED!"
+msgstr "Không có bản ghi nào trong cơ sở dữ liệu, Xuất dữ liệu THẤT BẠI!"
+
+#: admin/modules/bibliography/item_export.php:139
+msgid "Item Export Tool"
+msgstr "Xuất biểu ghi chi tiết"
+
+#: admin/modules/bibliography/item_export.php:141
+msgid "Export item data to CSV file"
+msgstr "Xuất dữ liệu thành file CSV"
+
+#: admin/modules/bibliography/iframe_attach.php:76
+msgid "Attachment removed!"
+msgstr "Hủy bỏ tập tin đính kèm!"
+
+#: admin/modules/bibliography/iframe_attach.php:121
+#: admin/modules/bibliography/index.php:541
+msgid "File Attachments"
+msgstr "Tệp tin đính kèm"
+
+#: admin/modules/bibliography/item_import.php:191
+msgid "Item Import tool"
+msgstr "Nhập dữ liệu biểu ghi chi tiết"
+
+#: admin/modules/bibliography/item_import.php:194
+msgid "Import for item data from CSV file"
+msgstr "Nhập dữ liệu từ file CSV"
+
+#: admin/modules/bibliography/p2p.php:212
+#, php-format
+msgid "Sorry, no result found from %s OR maybe XML result and detail disabled."
+msgstr "Oh, không tìm thấy kết quả %s hoặc có thể kết quả XML và chi tiết bị vô hiệu hóa."
+
+#: admin/modules/bibliography/p2p.php:226
+#: admin/modules/bibliography/z3950.php:280
+msgid "Server"
+msgstr "Máy chủ"
+
+#: admin/modules/bibliography/p2p.php:229
+#: admin/modules/bibliography/z3950.php:283
+msgid "* Please make sure you have a working Internet connection."
+msgstr "* Vui lòng kiểm tra kết nối Internet của bạn."
+
+#: admin/modules/bibliography/checkout_item.php:51
+#: admin/modules/bibliography/submenu.php:32
+msgid "Checkout Items"
+msgstr "Đang mượn"
+
+#: admin/modules/bibliography/iframe_author.php:70
+msgid "Author succesfully removed!"
+msgstr "Đã xóa Tác giả thành công !"
+
+#: admin/modules/bibliography/iframe_author.php:81
+msgid "Author removed!"
+msgstr "Đã xóa Tác giả thành công !"
+
+#: admin/modules/bibliography/submenu.php:27
+#: admin/modules/bibliography/index.php:349
+msgid "Bibliographic"
+msgstr "Biên mục"
+
+#: admin/modules/bibliography/submenu.php:28
+#: admin/modules/bibliography/index.php:354
+msgid "Bibliographic List"
+msgstr "Tài liệu đã biên mục"
+
+#: admin/modules/bibliography/submenu.php:28
+msgid "Show Existing Bibliographic Data"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:31
+msgid "Item List"
+msgstr "Xếp giá"
+
+#: admin/modules/bibliography/submenu.php:31
+msgid "Show List of Library Items"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:32
+msgid "Show List of Checkout Items"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:33
+msgid "Copy Cataloguing"
+msgstr "Tìm kiếm biểu ghi"
+
+#: admin/modules/bibliography/submenu.php:34
+msgid "Z3950 SRU"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:34
+msgid "Grab Bibliographic Data from Z3950 SRU Web Services"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:35
+msgid "Z3950 Service"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:35
+msgid "Grab Bibliographic Data from Z3950 Web Services"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:36
+msgid "P2P Service"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:36
+msgid "Grab Bibliographic Data from Other SLiMS Web Services"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:38
+#: admin/modules/bibliography/dl_print.php:203
+#: admin/modules/bibliography/dl_print.php:213
+msgid "Labels Printing"
+msgstr "In nhãn gáy"
+
+#: admin/modules/bibliography/submenu.php:38
+msgid "Print Document Labels"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:39
+msgid "Item Barcodes Printing"
+msgstr "In mã vạch"
+
+#: admin/modules/bibliography/submenu.php:39
+msgid "Print Item Barcodes"
+msgstr "In mã vạch"
+
+#: admin/modules/bibliography/submenu.php:40
+msgid "Data Export"
+msgstr "Xuất biểu ghi tổng quát"
+
+#: admin/modules/bibliography/submenu.php:40
+msgid "Export Bibliographic Data To CSV format"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:41
+msgid "Data Import"
+msgstr "Nhập biểu ghi tổng quát"
+
+#: admin/modules/bibliography/submenu.php:41
+msgid "Import Data to Bibliographic Database from CSV file"
+msgstr "Nhập dữ liệu từ file CSV"
+
+#: admin/modules/bibliography/submenu.php:42
+msgid "Item Export"
+msgstr "Xuất dữ liệu chi tiết"
+
+#: admin/modules/bibliography/submenu.php:42
+msgid "Export Item/Copies data To CSV format"
+msgstr ""
+
+#: admin/modules/bibliography/submenu.php:43
+msgid "Item Import"
+msgstr "Nhập dữ liệu chi tiết"
+
+#: admin/modules/bibliography/submenu.php:43
+msgid "Import Data to Item/Copies database from CSV file"
+msgstr "Nhập dữ liệu từ file CSV"
+
+#: admin/modules/bibliography/import.php:225
+msgid "Import Tool"
+msgstr "Nhập dữ liệu tổng quát"
+
+#: admin/modules/bibliography/import.php:228
+msgid "Import for bibliographics data from CSV file. For guide on CVS fields order and format please refer to documentation or visit <a href=\"http://slims.web.id\" target=\"_blank\">Official Website</a>"
+msgstr ""
+
+#: admin/modules/bibliography/z3950.php:279
+#: admin/modules/bibliography/index.php:358
+msgid "Title/Series Title"
+msgstr "Nhan đề"
+
+#: admin/modules/bibliography/z3950.php:279
+#: admin/modules/bibliography/index.php:358
+msgid "Authors"
+msgstr "Tác giả"
+
+#: admin/modules/bibliography/item.php:62
+msgid "Item Code can't be empty!"
+msgstr ""
+
+#: admin/modules/bibliography/item.php:109
+msgid "Item Data Successfully Updated"
+msgstr ""
+
+#: admin/modules/bibliography/item.php:117
+#: admin/modules/bibliography/item.php:133
+msgid "Item Data FAILED to Save. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/bibliography/item.php:126
+msgid "New Item Data Successfully Saved"
+msgstr ""
+
+#: admin/modules/bibliography/item.php:180
+msgid "Item data can not be deleted because still on hold by members"
+msgstr ""
+
+#: admin/modules/bibliography/item.php:186
+msgid "Item succesfully removed!"
+msgstr ""
+
+#: admin/modules/bibliography/item.php:189
+msgid "Item FAILED to removed!"
+msgstr ""
+
+#: admin/modules/bibliography/item.php:207
+msgid "Others"
+msgstr "Khác"
+
+#: admin/modules/bibliography/item.php:278
+msgid "Edit Biblographic data"
+msgstr ""
+
+#: admin/modules/bibliography/item.php:290
+msgid "Inventory Code"
+msgstr ""
+
+#: admin/modules/bibliography/item.php:318
+msgid "Order Number"
+msgstr "Số đơn hàng"
+
+#: admin/modules/bibliography/item.php:320
+msgid "Order Date"
+msgstr "Ngày mua"
+
+#: admin/modules/bibliography/item.php:322
+msgid "Receiving Date"
+msgstr "Ngày bổ sung"
+
+#: admin/modules/bibliography/item.php:326
+#: admin/modules/bibliography/index.php:460
+msgid "Not Applicable"
+msgstr "Không áp dụng"
+
+#: admin/modules/bibliography/item.php:332
+msgid "Buy"
+msgstr "Mua"
+
+#: admin/modules/bibliography/item.php:333
+msgid "Prize/Grant"
+msgstr ""
+
+#: admin/modules/bibliography/item.php:334
+msgid "Source"
+msgstr "Nguồn bổ sung"
+
+#: admin/modules/bibliography/item.php:336
+msgid "Invoice"
+msgstr "Hóa đơn"
+
+#: admin/modules/bibliography/item.php:338
+msgid "Invoice Date"
+msgstr "Ngày lập hóa đơn"
+
+#: admin/modules/bibliography/item.php:346
+msgid "You are going to edit Item data"
+msgstr "Bạn đang chỉnh sửa dữ liệu"
+
+#: admin/modules/bibliography/item.php:488
+#: admin/modules/bibliography/index.php:729
+#: admin/modules/bibliography/dl_print.php:302
+msgid "Query took"
+msgstr "Truy vấn"
+
+#: admin/modules/bibliography/item.php:488
+#: admin/modules/bibliography/index.php:729
+#: admin/modules/bibliography/dl_print.php:302
+msgid "second(s) to complete"
+msgstr ""
+
+#: admin/modules/bibliography/pop_attach.php:93
+msgid "Upload FAILED! Forbidden file type or file size too big!"
+msgstr ""
+
+#: admin/modules/bibliography/pop_attach.php:142
+msgid "File Attachment data updated!"
+msgstr "Đã cập nhật dữ liệu Tệp đính kèm!"
+
+#: admin/modules/bibliography/pop_attach.php:146
+msgid "File Attachment data FAILED to update!"
+msgstr "Không thể cập nhật file đính kèm, đã xẩy ra lỗi !"
+
+#: admin/modules/bibliography/pop_attach.php:151
+#: admin/modules/bibliography/pop_attach.php:166
+msgid "File Attachment uploaded succesfully!"
+msgstr "Tệp đính kèm đã được tải lên thành công!"
+
+#: admin/modules/bibliography/pop_attach.php:155
+msgid "File Attachment data FAILED to save!"
+msgstr "Không thể đính kèm tập tin, đã xẩy ra lỗi !"
+
+#: admin/modules/bibliography/pop_attach.php:175
+msgid "Upload Now"
+msgstr ""
+
+#: admin/modules/bibliography/pop_attach.php:205
+msgid "Repository ROOT"
+msgstr ""
+
+#: admin/modules/bibliography/pop_attach.php:215
+msgid "Repo. Directory"
+msgstr ""
+
+#: admin/modules/bibliography/pop_attach.php:219
+msgid "File To Attach"
+msgstr "File đính kèm"
+
+#: admin/modules/bibliography/pop_attach.php:222
+msgid "URL"
+msgstr ""
+
+#: admin/modules/bibliography/pop_attach.php:224
+msgid "Description"
+msgstr "Mô tả"
+
+#: admin/modules/bibliography/pop_attach.php:226
+msgid "Public"
+msgstr ""
+
+#: admin/modules/bibliography/pop_attach.php:227
+msgid "Private"
+msgstr ""
+
+#: admin/modules/bibliography/pop_attach.php:228
+msgid "Access"
+msgstr "Truy cập"
+
+#: admin/modules/bibliography/pop_attach.php:235
+msgid "Access Limit by Member Type"
+msgstr "Giới hạn truy cập theo Bạn đọc"
+
+#: admin/modules/bibliography/index.php:67
+msgid "Title can not be empty"
+msgstr ""
+
+#: admin/modules/bibliography/index.php:202
+msgid "Bibliography Data Successfully Updated"
+msgstr "Dữ liệu biên mục đã cập nhật thành công"
+
+#: admin/modules/bibliography/index.php:222
+msgid "Bibliography Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Không thể cập nhật dữ liệu. Vui lòng liên hệ Admin"
+
+#: admin/modules/bibliography/index.php:255
+msgid "New Bibliography Data Successfully Saved"
+msgstr ""
+
+#: admin/modules/bibliography/index.php:269
+msgid "Bibliography Data FAILED to Save. Please Contact System Administrator"
+msgstr "Không thể thêm mới dữ liệu. Vui lòng liên hệ Admin"
+
+#: admin/modules/bibliography/index.php:358
+msgid "All Fields"
+msgstr "Tất cả các trường"
+
+#: admin/modules/bibliography/index.php:358
+msgid "Topics"
+msgstr "Chủ đề"
+
+#: admin/modules/bibliography/index.php:366
+msgid "Upload Selected Bibliographic data to Union Catalog Server*"
+msgstr ""
+
+#: admin/modules/bibliography/index.php:441
+msgid "Items/Copies"
+msgstr "Đăng ký cá biệt/bản sách"
+
+#: admin/modules/bibliography/index.php:441
+msgid "Add New Items"
+msgstr "Thêm đăng ký cá biệt"
+
+#: admin/modules/bibliography/index.php:446
+msgid "Authors/Roles"
+msgstr "Tác giả / Vai trò"
+
+#: admin/modules/bibliography/index.php:446
+msgid "Add Author(s)"
+msgstr "Thêm Tác giả"
+
+#: admin/modules/bibliography/index.php:466
+msgid "Use this for Serial publication"
+msgstr "Thường áp dụng cho ấn phẩm định kỳ"
+
+#: admin/modules/bibliography/index.php:503
+msgid "Subjects/Topics"
+msgstr "Chủ đề"
+
+#: admin/modules/bibliography/index.php:503
+msgid "Add Subject(s)"
+msgstr "Thêm chủ đề"
+
+#: admin/modules/bibliography/index.php:541
+msgid "Add Attachment"
+msgstr "Tệp tin đính kèm"
+
+#: admin/modules/bibliography/index.php:577
+msgid "Show"
+msgstr "Hiện"
+
+#: admin/modules/bibliography/index.php:578
+msgid "Hide"
+msgstr "Ẩn"
+
+#: admin/modules/bibliography/index.php:579
+msgid "Hide in OPAC"
+msgstr "Hiển thị trang chủ"
+
+#: admin/modules/bibliography/index.php:581
+msgid "Don't Promote"
+msgstr "Không"
+
+#: admin/modules/bibliography/index.php:582
+msgid "Promote"
+msgstr "Có"
+
+#: admin/modules/bibliography/index.php:583
+msgid "Promote To Homepage"
+msgstr "Hiển thị ở Homepage"
+
+#: admin/modules/bibliography/index.php:607
+msgid "You are going to edit biblio data"
+msgstr "Bạn đang chỉnh sửa dữ liệu biểu ghi"
+
+#: admin/modules/bibliography/index.php:641
+msgid "Item(s) code batch generator"
+msgstr "Đăng ký cá biệt"
+
+#: admin/modules/bibliography/pop_topic.php:98
+msgid "Subject FAILED to Add. Please Contact System Administrator"
+msgstr ""
+
+#: admin/modules/bibliography/pop_topic.php:123
+msgid "Subject added!"
+msgstr ""
+
+#: admin/modules/bibliography/pop_topic.php:134
+msgid "Add Subject"
+msgstr "Tiêu đề"
+
+#: admin/modules/bibliography/pop_topic.php:140
+msgid "Keyword"
+msgstr ""
+
+#: admin/modules/bibliography/pop_topic.php:154
+msgid "Type to search for existing topics or to add a new one"
+msgstr "Nhập để tìm kiếm các chủ đề hiện có hoặc để thêm một chủ đề mới"
+
+#: admin/modules/bibliography/pop_topic.php:156
+msgid "Insert To Bibliography"
+msgstr "Thêm vào biểu ghi"
+
+#: admin/modules/bibliography/dl_print.php:218
+msgid "Print Labels for Selected Data"
+msgstr "In nhãn gáy"
+
+#: admin/modules/bibliography/pop_author.php:95
+msgid "Author succesfully updated!"
+msgstr "Cập nhật tác giả thành công !"
+
+#: admin/modules/bibliography/pop_author.php:99
+msgid "Author FAILED to Add. Please Contact System Administrator"
+msgstr "Thêm tác giả không thành công, Vui lòng liên hệ Quản trị hệ thống"
+
+#: admin/modules/bibliography/pop_author.php:124
+msgid "Author added!"
+msgstr "Đã thêm Tác giả !"
+
+#: admin/modules/bibliography/pop_author.php:135
+msgid "Add Author"
+msgstr "Thêm Tác giả"
+
+#: admin/modules/bibliography/pop_author.php:153
+msgid "Type to search for existing authors or to add a new one"
+msgstr "Nhập để tìm kiếm các tác giả hiện có hoặc để thêm một tác giả mới"
+
+#: admin/modules/bibliography/ucs_upload.php:31
+msgid "UCS is not enabled! Change global system configuration to enable UCS"
+msgstr "UCS chưa được kích hoạt! Thay đổi cấu hình hệ thống toàn cầu để bật UCS"
+
+#: admin/modules/bibliography/z3950sru.php:240
+msgid "All fields"
+msgstr "Tất cả các lĩnh vực"
+
+#: admin/modules/bibliography/z3950sru.php:241
+msgid "SRU Server"
+msgstr ""
+
+#: admin/modules/bibliography/item_barcode_generator.php:206
+msgid "Print Barcodes for Selected Data"
+msgstr "In mã vạch"
+
+#: admin/modules/bibliography/export.php:147
+msgid "There is no record in bibliographic database yet, Export FAILED!"
+msgstr ""
+
+#: admin/modules/bibliography/export.php:157
+msgid "Export Tool"
+msgstr "Xuất dữ liệu tổng quát"
+
+#: admin/modules/bibliography/export.php:160
+msgid "Export bibliographics data to CSV file"
+msgstr "Xuất dữ liệu sang file CSV"
+
+#: lib/detail.inc.php:172
+msgid "Click to view others documents with this author"
+msgstr "Nhấp vào đây để xem tài liệu cùng tác giả này"
+
+#: lib/detail.inc.php:186
+msgid "Click to view others documents with this subject"
+msgstr "Nhấp vào đây để xem tài liệu cùng chủ đề này"
+
+#: lib/biblio_list_model.inc.php:182 lib/biblio_list_model.inc.php:203
+msgid "Record Detail"
+msgstr "Chi tiết bản ghi"
+
+#: lib/biblio_list_model.inc.php:258
+msgid "none copy available"
+msgstr ""
+
+#: lib/biblio_list_model.inc.php:271
+msgid "mark this"
+msgstr ""
+
+#: lib/biblio_list_model.inc.php:294
+msgid "Put marked selection into basket"
+msgstr ""
+
+#: lib/contents/attachment_list.php:54
+msgid "No Attachment"
+msgstr ""
+
+#: lib/contents/default.inc.php:132 lib/contents/default.inc.php:145
+msgid "Found <strong>{biblio_list->num_rows}</strong> from your keywords"
+msgstr "Tìm thấy <strong>{biblio_list->num_rows}</strong> với từ khóa"
+
+#: lib/contents/default.inc.php:178
+msgid "You currently on page <strong>{page}</strong> of <strong>{total_pages}</strong> page(s)"
+msgstr ""
+
+#: lib/contents/member.inc.php:39
+msgid "Welcome to Member's Area where you can view your current loan information and view your membership status."
+msgstr "Trang quản lý thông tin cá nhân, xem các thông tin mượn trả tài liệu."
+
+#: lib/contents/member.inc.php:65
+msgid "Please fill your Username and Password to Login!"
+msgstr ""
+
+#: lib/contents/member.inc.php:105
+msgid "Login FAILED! Wrong username or password!"
+msgstr ""
+
+#: lib/contents/member.inc.php:115
+msgid "Library Member Login"
+msgstr "Đăng nhập tài khoản"
+
+#: lib/contents/member.inc.php:119
+msgid "Wrong Captcha Code entered, Please write the right code!"
+msgstr ""
+
+#: lib/contents/member.inc.php:122
+msgid "Please insert your member ID and password given by library system administrator. If you are library's member and don't have a password yet, please contact library staff."
+msgstr "Khu vực đăng nhập dành cho bạn đọc.  Nếu bạn chưa có tài khoản vui lòng liên hệ quản trị viên."
+
+#: lib/contents/member.inc.php:151
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: lib/contents/member.inc.php:174
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: lib/contents/member.inc.php:191
+msgid "Current Password"
+msgstr "Mật khẩu hiện tại"
+
+#: lib/contents/member.inc.php:199
+msgid "Confirm Password"
+msgstr "Xác nhận mật khẩu"
+
+#: lib/contents/member.inc.php:203 lib/contents/member.inc.php:602
+msgid "Change Password"
+msgstr "Thay đổi mật khẩu"
+
+#: lib/contents/member.inc.php:372
+msgid "Reserve title(s) on Basket"
+msgstr ""
+
+#: lib/contents/member.inc.php:373
+msgid "Clear Basket"
+msgstr "Hủy ghi mượn"
+
+#: lib/contents/member.inc.php:374
+msgid "Remove selected title(s) from Basket"
+msgstr "Xóa dữ liệu"
+
+#: lib/contents/member.inc.php:376
+msgid "title(s) on basket"
+msgstr "(s) tài liệu đăng ký mượn"
+
+#: lib/contents/member.inc.php:398
+msgid "Your Membership Already EXPIRED! Please extend your membership."
+msgstr "Bạn đọc đã hết hạn! Vui lòng gia hạn Bạn đọc."
+
+#: lib/contents/member.inc.php:401
+msgid "Membership currently in pending state, no loan transaction can be made yet."
+msgstr "Bạn đọc hiện đang ở trạng thái chờ xử lý, không thể mượn tài liệu."
+
+#: lib/contents/member.inc.php:434
+msgid "OVERDUED"
+msgstr "Quá hạn"
+
+#: lib/contents/member.inc.php:481
+msgid "item(s) currently on loan"
+msgstr "tài liệu mượn(s) đang mượn"
+
+#: lib/contents/member.inc.php:503
+#: lib/contents/download_loan_history.inc.php:64
+msgid "Ngày trả"
+msgstr ""
+
+#: lib/contents/member.inc.php:516
+#: lib/contents/download_loan_history.inc.php:88
+msgid "item(s) loan history"
+msgstr "tài liệu đã mượn"
+
+#: lib/contents/member.inc.php:525
+msgid "Your password have been changed successfully."
+msgstr "Mật khẩu của bạn đã được thay đổi thành công."
+
+#: lib/contents/member.inc.php:528
+msgid "Current password entered WRONG! Please insert the right password!"
+msgstr "Mật khẩu hiện tại không chính xác! Vui lòng nhập đúng mật khẩu!"
+
+#: lib/contents/member.inc.php:530
+msgid "Password confirmation FAILED! Make sure to check undercase or uppercase letters!"
+msgstr "Xác nhận mật khẩu THẤT BẠI! Kiểm tra lại dữ liệu nhập!"
+
+#: lib/contents/member.inc.php:532
+msgid "Password update FAILED! ERROR ON DATABASE!"
+msgstr "Không thể cập nhật dữ lieu!"
+
+#: lib/contents/member.inc.php:543
+msgid "Reservation e-mail sent successfully!"
+msgstr "Gởi email thông báo đặt chỗ thành công !"
+
+#: lib/contents/member.inc.php:591
+msgid "Member Detail"
+msgstr "Chi tiết Bạn đọc"
+
+#: lib/contents/member.inc.php:593
+msgid "Your Current Loan"
+msgstr "Tài liệu bạn đang mượn"
+
+#: lib/contents/member.inc.php:595
+#: lib/contents/download_loan_history.inc.php:97
+msgid "Your Loan History"
+msgstr "Lịch sử mượn"
+
+#: lib/contents/member.inc.php:598
+msgid "Your Title Basket"
+msgstr ""
+
+#: lib/contents/visitor.inc.php:99
+msgid ", thank you for inserting your data to our visitor log"
+msgstr ", cảm ơn bạn đã chèn dữ liệu của bạn vào nhật ký khách truy cập của chúng tôi"
+
+#: lib/contents/visitor.inc.php:101
+msgid "Your membership already EXPIRED, please renew/extend your membership immediately"
+msgstr "Tài khoản của bạn đã hết hạn, vui lòng gia hạn để sử dụng"
+
+#: lib/contents/visitor.inc.php:104
+msgid "Sorry, Please fill institution field if you are not library member"
+msgstr "Xin lỗi, Vui lòng điền vào trường tổ chức nếu bạn không phải là Bạn đọc thư viện"
+
+#: lib/contents/visitor.inc.php:106
+msgid "Error inserting counter data to database!"
+msgstr ""
+
+#: lib/contents/visitor.inc.php:114
+msgid "Visitor Counter"
+msgstr ""
+
+#: lib/contents/visitor.inc.php:116
+msgid "Please insert your library member ID otherwise your full name instead"
+msgstr ""
+
+#: lib/contents/common.inc.php:32
+msgid "All Locations"
+msgstr "Tất cả nơi xuất bản"
+
+#: lib/contents/common.inc.php:41
+msgid "All Collections"
+msgstr "Tất cả Bộ sưu tập"
+
+#: lib/contents/common.inc.php:50
+msgid "All GMD/Media"
+msgstr "Tất cả GMD/Media"
+
+#: lib/contents/login.inc.php:55
+msgid "Please supply valid username and password"
+msgstr ""
+
+#: lib/contents/login.inc.php:97
+msgid "Welcome to Library Automation, "
+msgstr ""
+
+#: lib/contents/login.inc.php:108
+msgid "Wrong Username or Password. ACCESS DENIED"
+msgstr ""
+
+#: lib/contents/login.inc.php:119
+msgid "Your browser does not support Javascript or Javascript is disabled. Application won't run without Javascript!"
+msgstr ""
+
+#: lib/contents/download_current_loan.inc.php:88
+msgid "Current Loan item(s)"
+msgstr "Các tài liệu đang mượn hiện tại"
+
+#: lib/contents/item_list.php:54
+msgid "There is no item/copy for this title yet"
+msgstr ""
+
+#: lib/contents/item_list.php:76
+msgid "Currently On Loan (Due on"
+msgstr "Đang mượn ("
+
+#: lib/contents/item_list.php:78
+msgid "Available but not for loan"
+msgstr "Tài liệu rỗi nhưng không thể mượn"
+
+#: lib/lang/localisation.php:65
+msgid "Arabic"
+msgstr "Tiếng Ả rập"
+
+#: lib/lang/localisation.php:66
+msgid "Bengali"
+msgstr "Tiếng Bengal"
+
+#: lib/lang/localisation.php:67
+msgid "German"
+msgstr ""
+
+#: lib/lang/localisation.php:68
+msgid "English"
+msgstr ""
+
+#: lib/lang/localisation.php:69
+msgid "Espanol"
+msgstr ""
+
+#: lib/lang/localisation.php:70
+msgid "Indonesian"
+msgstr ""
+
+#: lib/lang/localisation.php:71
+msgid "Brazilian Portuguese"
+msgstr "Tiếng Bồ Đào Nha"
+
+#: lib/lang/localisation.php:72
+msgid "Thai"
+msgstr ""
+
+#: simbio2/simbio_GUI/table/simbio_table.inc.php:223
+msgid "No Data"
+msgstr "Không tìm thấy dữ liệu"
+
+#: simbio2/simbio_GUI/paging/simbio_paging.inc.php:118
+msgid "First Page"
+msgstr "Trang đầu"
+
+#: simbio2/simbio_GUI/paging/simbio_paging.inc.php:120
+msgid "Previous"
+msgstr "Trước"
+
+#: simbio2/simbio_GUI/paging/simbio_paging.inc.php:141
+msgid "Next"
+msgstr "Tiếp"
+
+#: simbio2/simbio_GUI/paging/simbio_paging.inc.php:149
+msgid "Last Page"
+msgstr "Trang cuối"
+
+#: simbio2/simbio_GUI/form_maker/simbio_form_table_AJAX.inc.php:98
+#: simbio2/simbio_GUI/form_maker/simbio_form_table.inc.php:105
+msgid "Delete Record"
+msgstr "Xóa bản ghi"
+
+#: simbio2/simbio_GUI/form_maker/simbio_form_table_AJAX.inc.php:99
+#: simbio2/simbio_GUI/form_maker/simbio_form_table.inc.php:106
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:267
+msgid "Date"
+msgstr "Ngày"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:89
+msgid "DELETE"
+msgstr "Xóa"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:90
+msgid "EDIT"
+msgstr "Chỉnh sửa"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:105
+msgid "Are You Sure Want to DELETE Selected Data?"
+msgstr "Bạn có chắc chắn muốn xóa dữ liệu đã chọn ?"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:109
+msgid "Delete Selected Data"
+msgstr "Xóa dữ liệu"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:137
+msgid "ascendingly"
+msgstr "tăng dần"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:146
+msgid "descendingly"
+msgstr "giảm dần"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:215
+msgid "Order list by"
+msgstr "Sắp xếp theo"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:372
+msgid "Check All"
+msgstr "Chọn tất cả"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:373
+msgid "Uncheck All"
+msgstr "Bỏ chọn tất cả"
+
+#: Custom by Garidinh
+msgid "ID Already exists! Please use another ID"
+msgstr "ID Bạn đọc đã tồn tại"
+
+#: Custom by Garidinh
+msgid "ID Available"
+msgstr "ID có giá trị"
+
+#: Custom by Garidinh
+msgid "Related Biblio Data"
+msgstr "Tài liệu liên quan"
+
+#: Custom by Garidinh
+msgid "Add Relation"
+msgstr "Thêm tài liệu"
+
+#: Custom by Garidinh
+msgid "Type to search for existing biblio data"
+msgstr "Nhập dữ liệu cần tìm"
+
+#: Custom by Garidinh
+msgid "Total item(s)"
+msgstr "Số lượng bản"
+
+#: Custom by Garidinh
+msgid "Add new pattern"
+msgstr "Thêm mẫu ĐKCB"
+
+#: Custom by Garidinh
+msgid "Content Type"
+msgstr "Loại nội dung"
+
+#: Custom by Garidinh
+msgid "Media Type"
+msgstr "Loại phương tiện"
+
+#: Custom by Garidinh
+msgid "Total of temporary fines"
+msgstr "Số tiền phạt"
+
+#: Custom by Garidinh
+msgid "Bibliography"
+msgstr "Biên mục"
+
+#: Custom by Garidinh
+msgid "Library Administration"
+msgstr "Quản trị hệ thống"
+
+#: Custom by Garidinh
+msgid "Total of Items"
+msgstr "Tổng số tài liệu"
+
+#: Custom by Garidinh
+msgid "Total of Collections"
+msgstr "Bộ sưu tập"
+
+#: Custom by Garidinh
+msgid "Summary"
+msgstr "Thống kê nhanh"
+
+#: Custom by Garidinh
+msgid "Latest Transactions"
+msgstr "Lưu thông mới"
+
+#: Custom by Garidinh
+msgid "Total"
+msgstr "Tổng số tài liệu"
+
+#: Custom by Garidinh
+msgid "New"
+msgstr "Mới"
+
+#: Custom by Garidinh
+msgid "Extends"
+msgstr "Gia hạn"
+
+#: Custom by Garidinh
+msgid "Theme"
+msgstr "Giao diện"
+
+#: Custom by Garidinh
+msgid "Shortcut Setting"
+msgstr "Lối tắt"
+
+#: Custom by Garidinh
+msgid "Add or remove application shortcuts"
+msgstr "Thêm hoặc xóa các lối tắt của ứng dụng"
+
+#: Custom by Garidinh
+msgid "Theme Configuration"
+msgstr "Cài đặt giao diện"
+
+#: Custom by Garidinh
+msgid "TOOLS"
+msgstr "CÔNG CỤ"
+
+#: Custom by Garidinh
+msgid "COPY CATALOGUING"
+msgstr "DỊCH VỤ"
+
+#: Custom by Garidinh
+msgid "ITEMS"
+msgstr "THÔNG TIN KHÁC"
+
+#: Custom by Garidinh
+msgid "BIBLIOGRAPHIC"
+msgstr "BIỂU GHI"
+
+#: Custom by Garidinh
+msgid "Member Data Export"
+msgstr "Xuất dữ liệu"
+
+#: Custom by Garidinh
+msgid "Member Data Import"
+msgstr "Nhập dữ liệu"
+
+#: Custom by Garidinh
+msgid "MARC Export"
+msgstr "Xuất dữ liệu MARC"
+
+#: Custom by Garidinh
+msgid "MARC Import"
+msgstr "Nhập dữ liệu MARC"
+
+#: Custom by Garidinh
+msgid "Catalog Printing"
+msgstr "In mục lục"
+
+#: Custom by Garidinh
+msgid "Put columns names in the first row"
+msgstr "Đặt tên cột ở hàng đầu tiên"
+
+#: Custom by Garidinh
+msgid "Biblio Data Export"
+msgstr "Xuất biểu ghi tổng quát"
+
+#: Custom by Garidinh
+msgid "Biblio Data Import"
+msgstr "Nhập biểu ghi tổng quát"
+
+#: Custom by Garidinh
+msgid "Biblio Item Export"
+msgstr "Xuất biểu ghi chi tiết"
+
+#: Custom by Garidinh
+msgid "Biblio Item Import"
+msgstr "Nhập biểu ghi chi tiết"
+
+#: Custom by Garidinh
+msgid "Number of Records To Import (0 for all records)"
+msgstr "Số lượng biểu ghi nhập (0 để nhập tất cả)"
+
+#: Custom by Garidinh
+msgid "The first row is the columns names"
+msgstr "Đặt tên cột ở hàng đầu tiên"
+
+#: Custom by Garidinh
+msgid "Change print barcode settings"
+msgstr "Cài đặt mã vạch"
+
+#: Custom by Garidinh
+msgid "Advanced Filter"
+msgstr "Lọc nâng cao"
+
+#: Custom by Garidinh
+msgid "Statement of Responsibility"
+msgstr "Tuyên bố trách nhiệm"
+
+#: Custom by Garidinh
+msgid "Carrier Type"
+msgstr "Vật mang tin"
+
+#: Custom by Garidinh
+msgid "Or download from url"
+msgstr "Hoặc tải từ url"
+
+#: Custom by Garidinh
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: Custom by Garidinh
+msgid "Add New Pattern"
+msgstr "Mẫu ĐKCB"
+
+#: Custom by Garidinh
+msgid "Not set"
+msgstr "Không áp dụng"
+
+#: Custom by Garidinh
+msgid "Select an Option"
+msgstr "Lựa chọn"
+
+#: Custom by Garidinh
+msgid "Edit"
+msgstr "Sửa"
+
+#: Custom by Garidinh
+msgid "Log"
+msgstr "Lịch sử"
+
+#: Custom by Garidinh
+msgid "Delete"
+msgstr "Xóa"
+
+#: Custom by Garidinh
+msgid "Item(s) Data"
+msgstr "Đăng ký cá biệt"
+
+#: Custom by Garidinh
+msgid "Sex"
+msgstr "Giới tính"
+
+#: Custom by Garidinh
+msgid "Overdue Grace Period"
+msgstr "Thời gian gia hạn"
+
+#: Custom by Garidinh
+msgid "Master File"
+msgstr "Dữ liệu"
+
+#: Custom by Garidinh
+msgid "Cataloging Servers"
+msgstr "Dữ liệu máy chủ"
+
+#: Custom by Garidinh
+msgid "Copy Cataloging Server Configuration"
+msgstr "Cấu hình kết nối máy chủ"
+
+#: Custom by Garidinh
+msgid "Item Code Pattern"
+msgstr "Đăng ký cá biệt"
+
+#: Custom by Garidinh
+msgid "Pattern List"
+msgstr "Danh sách"
+
+#: Custom by Garidinh
+msgid "Enable Search Spellchecker"
+msgstr "Bật Trình kiểm tra chính tả tìm kiếm"
+
+#: Custom by Garidinh
+msgid "Select the topic you are interested in"
+msgstr "Duyệt nhanh theo chủ đề"
+
+#: Custom by Garidinh
+msgid "Popular among our collections"
+msgstr "Tài liệu được xem nhiều"
+
+#: Custom by Garidinh
+msgid "Our library's line of collection that have been favoured by our users were shown here. Look for them. Borrow them. Hope you also like them"
+msgstr "Tài liệu được nhiều bạn đọc yêu thích"
+
+#: Custom by Garidinh
+msgid "Top reader of the year"
+msgstr "Bạn đọc nổi bật trong năm"
+
+#: Custom by Garidinh
+msgid "New collections + updated"
+msgstr "Tài liệu mới cập nhật"
+
+#: Custom by Garidinh
+msgid "Information"
+msgstr "Giới thiệu"
+
+#: Custom by Garidinh
+msgid "News"
+msgstr "Tin tức"
+
+#: Custom by Garidinh
+msgid "Help"
+msgstr "Hướng dẫn"
+
+#: Custom by Garidinh
+msgid "Detail Information"
+msgstr "Chi tiết"
+
+#: Custom by Garidinh
+msgid "Other version/related"
+msgstr "Tài liệu liên quan"
+
+#: Custom by Garidinh
+msgid "Comments"
+msgstr "Bình luận"
+
+#: Custom by Garidinh
+msgid "You must be logged in to post a comment"
+msgstr "Vui lòng đăng nhập để bình luận"
+
+#: Custom by Garidinh
+msgid "Library Automation Login"
+msgstr "Đăng nhập hệ thống"
+
+#: Custom by Garidinh
+msgid "Username"
+msgstr "Tên đăng nhập"
+
+#: Custom by Garidinh
+msgid "Forgot my password"
+msgstr "Quyên mật khẩu"
+
+#: Custom by Garidinh
+msgid "About Us"
+msgstr "Giới thiệu"
+
+#: Custom by Garidinh
+msgid "MEMBERSHIP"
+msgstr "Bạn đọc"
+
+#: Custom by Garidinh
+msgid "Literature"
+msgstr "Văn học"
+
+#: Custom by Garidinh
+msgid "History & Geography"
+msgstr "Lịch sử & địa lý"
+
+#: Custom by Garidinh
+msgid "Art & Recreation"
+msgstr "Nghệ thuật & giải trí"
+
+#: Custom by Garidinh
+msgid "Applied Sciences"
+msgstr "Công nghệ"
+
+#: Custom by Garidinh
+msgid "Pure Science"
+msgstr "Khoa học"
+
+#: Custom by Garidinh
+msgid "Social Sciences"
+msgstr "Khoa học xã hội"
+
+#: Custom by Garidinh
+msgid "Religion"
+msgstr "Tôn giáo"
+
+#: Custom by Garidinh
+msgid "Philosophy & Psychology"
+msgstr "Triết học & tâm lý học"
+
+#: Custom by Garidinh
+msgid "Computer Science, Information & General Works"
+msgstr "Tin học, thông tin"
+
+#: Custom by Garidinh
+msgid "No Result"
+msgstr "Không tìm thấy dữ liệu"
+
+#: Custom by Garidinh
+msgid "Please try again"
+msgstr "Vui lòng thử lại"
+
+#: Custom by Garidinh
+msgid "Search Result"
+msgstr "Kết quả tìm kiếm"
+
+#: Custom by Garidinh
+msgid "see more.."
+msgstr "xem tất cả..."
+
+#: Custom by Garidinh
+msgid "Search by :"
+msgstr "Tìm theo :"
+
+#: Custom by Garidinh
+msgid "Last search:"
+msgstr "Đã tìm :"
+
+#: Custom by Garidinh
+msgid "OR TRY"
+msgstr "HOẶC"
+
+#: Custom by Garidinh
+msgid "Enter keyword to search collection..."
+msgstr "Nhập từ khóa tìm kiếm..."
+
+#: Custom by Garidinh
+msgid "Suggestion"
+msgstr "Gợi ý cho bạn"
+
+#: Custom by Garidinh
+msgid "Library News"
+msgstr "Tin tức"
+
+#: Custom by Garidinh
+msgid "Read More"
+msgstr "Đọc thêm"
+
+#: Custom by Garidinh
+msgid "Profile of our Librarian"
+msgstr "Đội ngũ cán bộ"
+
+#: Custom by Garidinh
+msgid "Librarian"
+msgstr "Thủ thư"
+
+#: Custom by Garidinh
+msgid "Library Staff"
+msgstr "Nhân viên thư viện"
+
+#: Custom by Garidinh
+msgid "Senior Librarian"
+msgstr "Giám đốc"
+
+#: Custom by Garidinh
+msgid "Position"
+msgstr "Chức danh"
+
+#: Custom by Garidinh
+msgid "Social"
+msgstr "Mạng xã hội"
+
+#: Custom by Garidinh
+msgid "Description Not Available"
+msgstr "Dữ liệu đang cập nhật"
+
+#: Custom by Garidinh
+msgid "View Detail"
+msgstr "Chi tiết"
+
+#: Custom by Garidinh
+msgid "Cite"
+msgstr "Trích dẫn"
+
+#: Custom by Garidinh
+msgid "Current Loan"
+msgstr "Đang mượn"
+
+msgid "My Current Loan"
+msgstr "Tài liệu đang mượn"
+
+#: Custom by Garidinh
+msgid "Title Basket"
+msgstr "Đăng ký mượn"
+
+#: Custom by Garidinh
+msgid "My Title Basket"
+msgstr "Tài liệu đăng ký mượn"
+
+#: Custom by Garidinh
+msgid "My Loan History"
+msgstr "Lịch sử mượn"
+
+#: Custom by Garidinh
+msgid "Download All Loan History"
+msgstr "Tải về lịch sử mượn"
+
+#: Custom by Garidinh
+msgid "Download All Current Loan"
+msgstr "Tải về danh sách tài liệu mượn"
+
+#: Custom by Garidinh
+msgid "My Account"
+msgstr "Tài khoản"
+
+#: Custom by Garidinh
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: Custom by Garidinh
+msgid "Profile"
+msgstr "Tài khoản"
+
+#: Custom by Garidinh
+msgid "Save comment"
+msgstr "Gởi bình luận"
+
+#: Custom by Garidinh
+msgid "Add to basket"
+msgstr "Đặt mượn"
+
+#: Custom by Garidinh
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: Custom by Garidinh
+msgid "Customize"
+msgstr "Cài đặt"
+
+#: Custom by Garidinh
+msgid "Customize theme preferences"
+msgstr "Quản lý và tùy chỉnh giao diện, biểu mẫu"
+
+#: Custom by Garidinh
+msgid "Enable this theme for mobile?"
+msgstr "Kích hoạt giao diện điện thoại?"
+
+#: Custom by Garidinh
+msgid "Library Sub Name"
+msgstr "Khẩu hiệu"
+
+#: Custom by Garidinh
+msgid "Slide Transition"
+msgstr "Hiệu ứng trình chiếu"
+
+#: Custom by Garidinh
+msgid "Slide Animation"
+msgstr "Hiệu ứng chuyển động"
+
+#: Custom by Garidinh
+msgid "Delay"
+msgstr "Thời gian hiệu ứng"
+
+#: Custom by Garidinh
+msgid "Popular Collection"
+msgstr "Tài liệu nổi bật"
+
+#: Custom by Garidinh
+msgid "Popular Items"
+msgstr "Số lượng tài liệu nổi bật"
+
+#: Custom by Garidinh
+msgid "New Collection"
+msgstr "Tài liệu mới cập"
+
+#: Custom by Garidinh
+msgid "New Items"
+msgstr "Số lượng tài liệu mới"
+
+#: Custom by Garidinh
+msgid "Top Reader"
+msgstr "Bạn đọc nổi bật"
+
+#: Custom by Garidinh
+msgid "Map"
+msgstr "Bản đồ"
+
+#: Custom by Garidinh
+msgid "Map URL"
+msgstr "Địa chỉ bản đồ"
+
+#: Custom by Garidinh
+msgid "Map Description"
+msgstr "Mô tả bản đồ"
+
+#: Custom by Garidinh
+msgid "Footer About Us"
+msgstr "Giới thiệu"
+
+#: Custom by Garidinh
+msgid "Visitor log voice"
+msgstr "Nhật ký khách truy cập bằng giọng nói"
+
+#: Custom by Garidinh
+msgid "System Environment"
+msgstr "Môi trường hệ thống"
+
+#: Custom by Garidinh
+msgid "Information on SLiMS System Environment. Use this to support troubleshotting problem."
+msgstr "Thông tin về Môi trường Hệ thống SLiMS. Sử dụng điều này để hỗ trợ vấn đề khắc phục sự cố."
+
+#: Custom by Garidinh
+msgid "UCS Setting"
+msgstr "Cấu hình UCS"
+
+#: Custom by Garidinh
+msgid "UCS Configuration"
+msgstr "Cấu hình UCS"
+
+#: Custom by Garidinh
+msgid "Custom Field"
+msgstr "Trường tùy chỉnh"
+
+#: Custom by Garidinh
+msgid "Librarian & System Users"
+msgstr "Nhân viên quản trị"
+
+#: Custom by Garidinh
+msgid "User Type"
+msgstr "Chức danh"
+
+#: Custom by Garidinh
+msgid "Holiday Settings"
+msgstr "Cài đặt ngày nghỉ, ngày lễ"
+
+#: Custom by Garidinh
+msgid "Social Media"
+msgstr "Mạng xã hội"
+
+#: Custom by Garidinh
+msgid "User Photo"
+msgstr "Hình ảnh"
+
+#: Custom by Garidinh
+msgid "Custom Field Editor"
+msgstr "Thêm trường tùy chỉnh"
+
+#: Custom by Garidinh
+msgid "There are currently <strong>{num_overdue}</strong> library members having overdue. Please check at <b>Circulation</b> module at <b>Overdues</b> section for more detail"
+msgstr "Hiện có <strong>{num_overdue}</strong> Bạn đọc mượn tài liệu quá hạn. Vui lòng kiểm tra phân hệ<b>Lưu thông chức năng danh sách quá hạn để xem chi tiết"
+
+#: Custom by Garidinh
+msgid "Member card print settings"
+msgstr "Cài đặt in thẻ"
+
+#: Custom by Garidinh
+msgid "Change print label settings"
+msgstr "Cài đặt in nhãn gáy"
+
+#: Custom by Garidinh
+msgid "Print setting for"
+msgstr "Cài đặt in cho"
+
+#: Custom by Garidinh
+msgid "Barcode Page Margin"
+msgstr "Khoảng cách lề trang"
+
+#: Custom by Garidinh
+msgid "Barcode Items Per Row"
+msgstr "Số mã vạch trên một dòng"
+
+#: Custom by Garidinh
+msgid "Barcode Items Margin"
+msgstr "Khoảng cách giữa các mã vạch"
+
+#: Custom by Garidinh
+msgid "Barcode Box Width"
+msgstr "Chiều rộng mã vạch"
+
+#: Custom by Garidinh
+msgid "Barcode Box Height"
+msgstr "Chiều cao mã vạch"
+
+#: Custom by Garidinh
+msgid "Barcode Include Header Text"
+msgstr "Hiển thị nhan đề tài liệu"
+
+#: Custom by Garidinh
+msgid "Barcode Cut Title"
+msgstr "Số ký tự nhan đề hiển thị"
+
+#: Custom by Garidinh
+msgid "(0 if you prefer without title)"
+msgstr "nhập 0 nếu muốn hiển thị đầy đủ nhan đề"
+
+#: Custom by Garidinh
+msgid "Barcode Header Text"
+msgstr "Tiêu đề mã vạch"
+
+#: Custom by Garidinh
+msgid "(empty if you want to use Library Name)"
+msgstr "hiển thị tên thư viện nếu bỏ trống"
+
+#: Custom by Garidinh
+msgid "Barcode Fonts"
+msgstr "Font chữ"
+
+#: Custom by Garidinh
+msgid "Barcode Font Size"
+msgstr "Kích thước font chữ"
+
+#: Custom by Garidinh
+msgid "Barcode Scale"
+msgstr "Tỉ lệ mã vạch"
+
+#: Custom by Garidinh
+msgid "Barcode Border Size"
+msgstr "Kích thước khung cho mã vạch"
+
+#: Custom by Garidinh
+msgid "Page Margin"
+msgstr "Khoảng cách lề trang"
+
+#: Custom by Garidinh
+msgid "Items Per Row"
+msgstr "Số nhãn gáy trên một dòng"
+
+#: Custom by Garidinh
+msgid "Items Margin"
+msgstr "Khoảng cách giữa các nhãn gáy"
+
+#: Custom by Garidinh
+msgid "Box Width"
+msgstr "Chiều rộng"
+
+#: Custom by Garidinh
+msgid "Box Height"
+msgstr "Chiều cao"
+
+#: Custom by Garidinh
+msgid "Include Header Text"
+msgstr "Hiển thị tiêu đề"
+
+#: Custom by Garidinh
+msgid "Header Text"
+msgstr "Nội dung tiêu đề"
+
+#: Custom by Garidinh
+msgid "Fonts"
+msgstr "Font chữ"
+
+#: Custom by Garidinh
+msgid "Font Size"
+msgstr "Kích thước font chữ"
+
+#: Custom by Garidinh
+msgid "Border Size"
+msgstr "Kích thước khung"
+
+#: Custom by Garidinh
+msgid "Total of unpaid fines"
+msgstr "Tổng số tiền phạt chưa thanh toán"
+
+#: Custom by Garidinh
+msgid "Export to spreadsheet format"
+msgstr "Xuất dữ liệu"
+
+#: Custom by Garidinh
+msgid "including titles that still don't have items yet"
+msgstr "bao gồm nhan đề không có thông tin xếp giá"
+
+#: Custom by Garidinh
+msgid "only titles that have items"
+msgstr "chỉ nhan đề có thông tin xếp giá"
+
+#: Custom by Garidinh
+msgid "Orphaned Publisher"
+msgstr "Nhà xuất bản đã xóa"
+
+#: Custom by Garidinh
+msgid "Orphaned Place"
+msgstr "Nơi xuất bản đã xóa"
+
+#: Custom by Garidinh
+msgid "Modify global application preferences"
+msgstr "Cài đặt hệ thống"
+
+#: Custom by Garidinh
+msgid "Member Fines List"
+msgstr "Bạn đọc đóng phạt"
+
+#: Custom by Garidinh
+msgid "Procurement Report"
+msgstr "Thống kê theo số phân loại"
+
+#: Custom by Garidinh
+msgid "Download Counter"
+msgstr "Số Lần tải file"
+
+#: Custom by Garidinh
+msgid "Logo Image"
+msgstr "Hình ảnh Logo"
+
+#: Custom by Garidinh
+msgid "Ignore Holidays Fine Calculation"
+msgstr "Bỏ qua các ngày nghỉ phép"
+
+#: Custom by Garidinh
+msgid "Visitor Limitation by Time"
+msgstr "Giới hạn khách truy cập theo thời gian"
+
+#: Custom by Garidinh
+msgid "Time visitor limitation (in minute)"
+msgstr "Giới hạn thời gian của khách truy cập (tính bằng phút)"
+
+#: Custom by Garidinh
+msgid "Visitor Counter by IP"
+msgstr "Số lượt truy cập theo IP"
+
+#: Custom by Garidinh
+msgid "Allowed Counter IP"
+msgstr "Cho phép bộ đếm hoạt đông theo IP"
+
+#: Custom by Garidinh
+msgid "Enter your barcodes code on one or more textboxes below to create barcode"
+msgstr "Nhập dữ liệu tạo mã vạch vào các field bên dưới"
+
+#: Custom by Garidinh
+msgid "Book Price"
+msgstr "Đơn giá"
+
+#: Custom by Garidinh
+msgid "Initialize Stock Take Process"
+msgstr "Khởi tạo kỳ kiểm kê"
+
+#: Custom by Garidinh
+msgid "Before stock taking, it is recommended to backup your database first."
+msgstr "Bạn nên sao lưu lại dữ liệu trước khi thực hiện."
+
+#: Custom by Garidinh
+msgid "Looks like you have not backed up before."
+msgstr "Bấm sao lưu dữ liệu hoặc bỏ qua."
+
+#: Custom by Garidinh
+msgid "Backup Now"
+msgstr "Sao lưu dữ liệu"
+
+#: Custom by Garidinh
+msgid "Skip"
+msgstr "Bỏ qua"
+
+#: Custom by Garidinh
+msgid "Available Load"
+msgstr "Có thể phục vụ"
+
+#: Custom by Garidinh
+msgid "The first row is columns names"
+msgstr "Dòng đầu tiên là tên các cột trong SQL"
+
+#: Custom by Garidinh
+msgid "Print Catalog Format"
+msgstr "In mục lục"
+
+#: Custom by Garidinh
+msgid "Print Catalog for Selected Data"
+msgstr "In mục lục"
+
+#: Custom by Garidinh
+msgid "Change Print Catalog settings"
+msgstr "Cài đặt mẫu in"
+
+#: Custom by Garidinh
+msgid "REPORTING FORM"
+msgstr "THỐNG KÊ"
+
+#: Custom by Garidinh
+msgid "OTHER REPORTS"
+msgstr "THỐNG KÊ CHI TIẾT"
+
+#: Custom by Garidinh
+msgid "Add New Kardex"
+msgstr "Thêm mới"
+
+#: Custom by Garidinh
+msgid "GMD (General Material Designation)"
+msgstr "Vật liệu"
+
+#: Custom by Garidinh
+msgid "Publish year"
+msgstr "Năm xuất bản"
+
+#: Custom by Garidinh
+msgid "SHORTCUT"
+msgstr "DỮ LIỆU"
+
+#: Custom by Garidinh
+msgid "Reporting Form Loan"
+msgstr "Thống kê Mượn trả"
+
+#: Custom by Garidinh
+msgid "Reporting Form Member"
+msgstr "Thống kê Bạn đọc"
+
+#: Custom by Garidinh
+msgid "Reporting Form Fines"
+msgstr "Thống kê Tiền phạt"
+
+#: Custom by Garidinh
+msgid "Reporting Form Act Vis"
+msgstr "Thống kê Hoạt động"
+
+#: Custom by Garidinh
+msgid "View Fine Reports"
+msgstr "Tiền phạt theo tháng, năm"
+
+#: Custom by Garidinh
+msgid "Fines List by Member"
+msgstr "Danh sách bạn đọc đóng phạt"
+
+#: Custom by Garidinh
+msgid "Custom Report Loan"
+msgstr "Thống kê Mượn trả"
+
+#: Custom by Garidinh
+msgid "Custom Report Items"
+msgstr "Thống kê Tài liệu"
+
+#: Custom by Garidinh
+msgid "Custom Report Member"
+msgstr "Thống kê Bạn đọc"
+
+#: Custom by Garidinh
+msgid "Custom Report Fines"
+msgstr "Thống kê Tiền phạt"
+
+#: Custom by Garidinh
+msgid "View Custom Report Loan"
+msgstr "Thống kê theo: số phân loại, bộ sưu tập"
+
+#: Custom by Garidinh
+msgid "View Loan Titles List"
+msgstr "Thống kê tài liệu theo nhan đề"
+
+#: Custom by Garidinh
+msgid "View Loan Items List"
+msgstr "Thống kê tài liệu theo mã xếp giá"
+
+#: Custom by Garidinh
+msgid "Custom Report Act Vis"
+msgstr "Thống kê Hoạt động"
+
+#: Custom by Garidinh
+msgid "Loans by staff"
+msgstr "Nhân viên thực hiện"
+
+#: Custom by Garidinh
+msgid "Loan statistic by staff"
+msgstr "Nhân viên thực hiện mượn trả tài liệu"
+
+#: Custom by Garidinh
+msgid "Add To Export Queue"
+msgstr "Thêm vào danh sách xuất"
+
+#: Custom by Garidinh
+msgid "Clear selected catalog"
+msgstr "Xóa dữ liệu"
+
+#: Custom by Garidinh
+msgid "Export now"
+msgstr "Xuất dữ liệu"
+
+#: Custom by Garidinh
+msgid "Batch Export"
+msgstr "Xuất hàng loạt"
+
+#: Custom by Garidinh
+msgid "Export Type"
+msgstr "Kiểu dữ liệu"
+
+#: Custom by Garidinh
+msgid "Number of records to import (0 for all records)"
+msgstr "Số lượng biểu ghi nhập (0 để nhập tất cả)"
+
+#: Custom by Garidinh
+msgid "Print Catalogue Format"
+msgstr "In thư mục"
+
+#: Custom by Garidinh
+msgid "Print Catalogue"
+msgstr "In thư mục"
